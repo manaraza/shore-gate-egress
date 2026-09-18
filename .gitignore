@@ -1,0 +1,74 @@
+# ---------------------------------------------------------------
+# DATA — never commit. Satellite scenes are 100MB-1GB+ each.
+# Track provenance in data/README.md instead.
+# ---------------------------------------------------------------
+data/*
+!data/README.md
+!data/.gitkeep
+
+# Raster / imagery
+*.tif
+*.tiff
+*.img
+*.jp2
+*.nc
+*.hdf
+*.he5
+*.safe/
+*.SAFE/
+*.zip
+
+# Vector (large exports; small hand-made AOIs can be force-added)
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.gpkg
+*.gdb/
+*.geojson.gz
+
+# QGIS
+*.qgz~
+*.qgs~
+*.qgd
+
+# ---------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# ---------------------------------------------------------------
+# Notebooks
+# ---------------------------------------------------------------
+.ipynb_checkpoints/
+# Strip outputs before committing (see README) — outputs bloat diffs.
+
+# ---------------------------------------------------------------
+# Secrets — GEE service accounts, API keys
+# ---------------------------------------------------------------
+.env
+*.pem
+*-service-account*.json
+credentials.json
+
+# ---------------------------------------------------------------
+# OS / editor
+# ---------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
