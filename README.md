@@ -29,6 +29,17 @@ verification.
 | 4. Site ranking | Corridor cost, hazard, connectivity, confidence | MCDA score + OAAT sensitivity results |
 
 ---
+```mermaid
+flowchart TD
+    A[Input data<br/>S1, S2, DEM, OSM, labels] --> B[1. Preprocessing<br/>Cloud mask, indices, SAR filter]
+    B --> C[2. Impact mapping<br/>Random Forest vs baseline]
+    C --> D[3. Road impact overlay<br/>OSM roads, 15 m buffer]
+    D --> E[4. Friction surface<br/>Land cover, slope, roads]
+    E --> F[5. Least-cost corridors<br/>Each site to destinations]
+    F --> G[6. MCDA ranking<br/>Weighted score, OAAT ±20%]
+    G --> H[Outputs<br/>Map, cards, recon list]
+```
+---
 
 ## Repo structure
 
