@@ -241,3 +241,4 @@ Proposed inputs:
 | 2026-10-13 | Post-event S2 = median 17–24 Jan 2022 | Samana | No single date usable (best 55.7% clear); composite covers 77.7% of positives |
 | 2026-10-13 | Pre-event S2 for impact model ends 19 Dec 2021 | Samana | Avoid Hunga Tonga activity from 20 Dec 2021 |
 | 2026-10-13 | Feature stack frozen (`features_v1`, 31 bands on label grid) | Samana | Includes 27 Jan S1 for Model 2A vs 2B comparison |
+| 2026-10-14 | Impact model frozen: Model 2B (optical + S1), `impact_score_v1`. Spatial-block CV Macro-F1 0.695, kappa 0.39 (2A 0.679, 2C 0.682, baseline 0.526) | Samana | Best on all metrics; 2C shows most signal comes from change, post-event and S1 |
