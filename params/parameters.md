@@ -133,36 +133,80 @@ accuracy. The friction surface uses WorldCover 2021 directly unless Model 1 clea
 
 ---
 
-## 6. Friction surface and corridors 🟡
+## 6. Friction surface and corridors 🟢 — frozen as `friction_v1`
 
-**Profile:** off-road / unsealed-road capable (teacher). Values are relative costs.
+**Profile:** off-road / unsealed-road capable logistics (teacher). Values are relative costs.
+**Grid:** EPSG:32701, 10 m routing grid (WorldCover 10 m, Copernicus DEM ~30 m, Model 2B ~31 m).
 
-| Surface | Friction |
+`friction = base cost × slope multiplier × ash multiplier`
+
+### Off-road base cost (WorldCover 2021)
+
+| Surface | WorldCover | Friction | Status |
+|---|---|---|---|
+| Grassland / cropland | 30 / 40 | 3 | teacher |
+| Bare / sparse | 60 | 3 | teacher |
+| Sand (bare ground within 200 m of water) | 60 + rule | 4 | provisional |
+| Shrubland | 20 | 6 | provisional |
+| Tree cover (dense vegetation) | 10 | 8 | teacher |
+| Herbaceous wetland | 90 | 8 | provisional |
+| Built-up (non-road) | 50 | 10 | teacher |
+| Mangroves | 95 | 10 | provisional |
+| Water | 80 | Impassable | teacher |
+
+### Roads
+
+**Network:** OpenStreetMap snapshot dated 15 Jan 2022, distributed with Copernicus EMSR558.
+Only geometry + road class used; EMS damage grades reserved for validation.
+
+| Road class | Assumed surface | Base cost |
+|---|---|---|
+| Primary / Secondary / Local | Sealed (assumed) | 1.0 |
+| Cart track | Unsealed | 1.5 |
+
+- Rasterised with a 7.5 m buffer (≥ half pixel diagonal, keeps roads continuous); at overlaps the lowest cost wins.
+- Roads crossing water keep road cost (causeway assumption — documented limitation).
+
+### Impact on roads (continuous)
+
+`C_road = C_base + S_excess × (C_surface − C_base)`
+
+`S_excess = clamp((score − m_class) / (1 − m_class), 0, 1)`, mean within 50 m of the road
+
+| WorldCover class | Reference level m_class (median Model 2B score) |
 |---|---|
-| Sealed road | 1.0 |
-| Unsealed road | 1.5 |
-| Bare / grass / crop | 3 |
-| Sand | 4 |
-| Dense vegetation | 8 |
-| Built-up (non-road) | 10 |
-| Water | Impassable |
-| WorldCover 20 (shrub), 90 (wetland), 95 (mangrove) mapping | *TBD* |
+| Grassland (and cropland) | 0.311 |
+| Built-up | 0.498 (matches EMSR558 built-up reference) |
+| Bare / sparse | 0.599 |
+
+- Rationale: built-up land scores ≈ 0.50 regardless of damage; raw scores would penalise all urban roads.
+- Unknown impact (cloud gap / out-of-domain) → no penalty; `impact_confidence` lowered instead.
+
+### Multipliers
 
 | Modifier | Value |
 |---|---|
 | Slope < 5° | × 1 |
 | Slope 5–15° | × 1.5 |
 | Slope 15–30° | × 3 |
-| Slope > 30° | Impassable |
-| Ash cover | × 1.5 |
-| Impacted road | Reverts to the friction of the surrounding surface |
+| Slope > 30° | Impassable off-road (0.009% of land) |
+| Ash fall (EMSR558 extent) | × 1.0 baseline (extent covers 99.3% of land); 1.25 / 1.5 sensitivity only |
 
-| Parameter | Value | Rationale |
-|---|---|---|
-| Corridor method | One `cumulativeCost` from all destinations, sampled at shoreline candidates | One computation instead of one per site; route lines traced for top sites only |
-| DEM | `COPERNICUS/DEM/GLO30` | |
+### Check results (v1)
 
-**Note:** road width is not measurable at 10 m. Use OSM class as a capacity proxy; width and
+| Check | Value |
+|---|---|
+| Road friction p5 / p50 / p95 | 1.01 / 1.52 / 3.81 |
+| Island friction p5 / p50 / p95 | 1.52 / 3.0 / 12 |
+| Road pixels with any impact evidence | 78.8% |
+| Mean Model 2B coverage around roads | 0.534 |
+
+| Parameter | Value |
+|---|---|
+| Corridor method | One cost-distance from all destinations, sampled at shoreline candidates; route lines traced for top sites only |
+| Exported audit bands | friction, base_cost, road_class, road_impact, road_impact_raw, impact_coverage, impact_known, impact_confidence, slope_deg, slope_mult, ash_mult, lc_cost |
+
+**Note:** road width is not measurable at 10 m. OSM class is used as a capacity proxy; width and
 load capacity go on the reconnaissance list.
 
 ---
@@ -242,3 +286,4 @@ Proposed inputs:
 | 2026-10-13 | Pre-event S2 for impact model ends 19 Dec 2021 | Samana | Avoid Hunga Tonga activity from 20 Dec 2021 |
 | 2026-10-13 | Feature stack frozen (`features_v1`, 31 bands on label grid) | Samana | Includes 27 Jan S1 for Model 2A vs 2B comparison |
 | 2026-10-14 | Impact model frozen: Model 2B (optical + S1), `impact_score_v1`. Spatial-block CV Macro-F1 0.695, kappa 0.39 (2A 0.679, 2C 0.682, baseline 0.526) | Samana | Best on all metrics; 2C shows most signal comes from change, post-event and S1 |
+| 2026-10-15 | Friction surface frozen (`friction_v1`, 10 m, EPSG:32701). Roads degraded by impact EXCESS over WorldCover-class median reference (grass 0.311, built-up 0.498, bare 0.599); ash baseline ×1.0 (extent covers 99.3% of land; 1.25/1.5 for sensitivity); 7.5 m road rasterisation; road network = OSM snapshot 15 Jan 2022 from EMSR558 (geometry + class only) | Samana | Raw score penalised all urban roads (built-up reference ≈ 0.50, matching EMSR558 validation) |
