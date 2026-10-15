@@ -260,6 +260,43 @@ Proposed inputs:
 
 ---
 
+
+## 9. Destinations, routing stack and landing candidates 🟢
+
+### Destinations — frozen as `destinations_20220115`
+
+| Parameter | Value | Rationale |
+|---|---|---|
+| Source | OpenStreetMap as of 15 Jan 2022 (Overpass, 3 split queries) | Pre-event state; same date as the road network |
+| De-duplication | Same-type points within 50 m merged: 371 → 363 | Removes double-mapped facilities |
+| Tier 1 | Hospital (3) | Highest priority (provisional, pending partner) |
+| Tier 2 | Clinic (8) + school (82) = 90 | Provisional |
+| Tier 3 | Community centre (26) + place of worship (244) = 270 | Provisional |
+
+### Routing stack — `tongatapu_routing_stack_v2.tif`
+
+| Parameter | Value | Rationale |
+|---|---|---|
+| Bands | friction, impact_confidence, road_impact, road_class, slope_deg, worldcover, impact_excess_all, impact_valid_all | Everything the Python routing/MCDA needs |
+| Grid | EPSG:32701, 10 m, crsTransform [10,0,669500,0,-10,7671040] | Identical to `friction_v1`, no resampling |
+| impact_excess_all | clamp((score − class ref) / (1 − class ref), 0, 1); refs grass 0.3106075467141432, built 0.49821893932068184, bare 0.5988611777623495 | Same references as friction; valid Model 2 domain only (grass/crop/built/bare) |
+| QA vs frozen road_impact | 50 m mean of excess: mean diff 0.0088, p95 0.037 | Confirms same formulation as `friction_v1` |
+| Impact coverage | ≈42% of passable land valid | Unknown impact is never treated as zero hazard |
+| Missing impact_confidence | Set to 0 | Conservative; 0 passable pixels affected |
+
+### Landing candidates
+
+| Parameter | Value | Rationale |
+|---|---|---|
+| Coast | Main island, open-sea coast only | Other islets excluded |
+| Lagoon | Fangaʻuta/Fangakakau mouth closed along 21.1534° S (−175.175 to −175.1077); all connected lagoon water removed (28.2 km²) | Lagoon is connected to the sea; published bounding box alone left 20 lagoon-shore candidates |
+| Exclusions | Mangrove/wetland > 50% within 50 m; any slope > 15° within 100 m | Unsuitable frontage / cliffs |
+| Tree-covered coast | Eligible | Friction already makes it costlier |
+| Spacing | ~500 m, greedy thinning, seed 42 | Avoids near-identical points |
+| Road distance | Not a filter | It is an MCDA criterion (Road Connectivity) |
+
+---
+
 ## Open questions
 
 | # | Question | Status |
@@ -290,3 +327,7 @@ Proposed inputs:
 | 2026-10-13 | Feature stack frozen (`features_v1`, 31 bands on label grid) | Samana | Includes 27 Jan S1 for Model 2A vs 2B comparison |
 | 2026-10-14 | Impact model frozen: Model 2B (optical + S1), `impact_score_v1`. Spatial-block CV Macro-F1 0.695, kappa 0.39 (2A 0.679, 2C 0.682, baseline 0.526) | Samana | Best on all metrics; 2C shows most signal comes from change, post-event and S1 |
 | 2026-10-15 | Friction surface frozen (`friction_v1`, 10 m, EPSG:32701). Roads degraded by impact EXCESS over WorldCover-class median reference (grass 0.311, built-up 0.498, bare 0.599); ash baseline ×1.0 (extent covers 99.3% of land; 1.25/1.5 for sensitivity); 7.5 m road rasterisation; road network = OSM snapshot 15 Jan 2022 from EMSR558 (geometry + class only) | Samana | Raw score penalised all urban roads (built-up reference ≈ 0.50, matching EMSR558 validation) |
+| 2026-10-15 | EMSR558 validation results added | Samana | Independent check: road AUC 0.61 pooled / 0.58 within image; strong on cart tracks (0.79), weak in villages (0.51) |
+| 2026-10-15 | Destinations frozen (`destinations_20220115`, 363 points, 3 tiers) | Samana | Pre-event OSM (15 Jan 2022); same-type points within 50 m merged (371 → 363) |
+| 2026-10-15 | Routing stack v2 (`tongatapu_routing_stack_v2`, 8 bands, adds all-surface impact excess + validity) | Samana | Hazard Safety and Data Confidence independent of road distance; QA vs road_impact mean diff 0.0088 |
+| 2026-10-15 | Lagoon mouth-closure rule for landing candidates | Samana | Fangaʻuta is connected to the sea; published bounding box alone left 20 lagoon-shore candidates |
