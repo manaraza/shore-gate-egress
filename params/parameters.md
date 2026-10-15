@@ -124,6 +124,9 @@ WorldCover maps Tongatapu farmland as grassland (no cropland in either class).
 | Baseline | Simple optical change threshold | Answers "does the RF beat a simple rule?" |
 | Metrics | Confusion matrix, precision, recall, F1, Macro-F1, feature importance | |
 | Independent validation | Copernicus EMS EMSR558 (≈109 destroyed, ≈80 damaged structures) | Validation only, never training |
+| EMSR558 road AUC (damaged+destroyed vs none, mean score) | 0.61 pooled (0.57–0.65); 0.58 within source image (0.53–0.62); cart tracks 0.79; local roads 0.51 | CIs from feature bootstrap, optimistic (no spatial blocking) |
+| EMSR558 building mean score by grade | Destroyed 0.58, Damaged 0.61, Possibly damaged 0.50 vs built-up background 0.509 | Score detects clear damage; weak in villages |
+| Impact coverage of routing land | ≈42% of passable land has valid Model 2 impact | Rest (mainly tree cover) = impact unknown → Data Confidence, never zero hazard |
 | n_estimators / depth | *TBD* | |
 
 ### Model 1 — land cover (optional)
