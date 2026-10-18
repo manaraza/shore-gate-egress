@@ -1,0 +1,9 @@
+streamlit>=1.50
+folium>=0.17
+streamlit-folium>=0.22
+pandas>=2.0
+numpy>=1.26
+altair>=5.0
+scipy>=1.11
+scikit-image>=0.22
+pyproj>=3.6

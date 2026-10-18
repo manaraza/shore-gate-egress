@@ -1,0 +1,364 @@
+dest_id,dest_type,name
+D001,hospital,Mu'a Hospital
+D002,hospital,Vainī Hospital
+D003,hospital,Vaiola Hospital
+D004,clinic,
+D005,clinic,Fasi Clinic
+D006,clinic,Kolomotu'a District Health Centre
+D007,clinic,Senita ki he Mo'ui 'a e Kakai
+D008,clinic,Senita ki he Mo'ui 'a e Kakai
+D009,clinic,Senita ki he Mo'ui 'a e Kakai
+D010,clinic,Susan China Clinic
+D011,clinic,Village Mission Doctor and Pharmacy
+D012,school,
+D013,school,
+D014,school,
+D015,school,
+D016,school,
+D017,school,
+D018,school,
+D019,school,
+D020,school,
+D021,school,
+D022,school,
+D023,school,
+D024,school,
+D025,school,
+D026,school,
+D027,school,
+D028,school,
+D029,school,
+D030,school,
+D031,school,
+D032,school,
+D033,school,'Ahopanilolo Institute
+D034,school,'Apifo'ou College
+D035,school,'Atenisi Institute
+D036,school,Assembly of God Bible College Office
+D037,school,FWC Nasaleti Primary School
+D038,school,GPS 'Atele
+D039,school,GPS 'Utulau
+D040,school,GPS Fanga
+D041,school,GPS Fasi
+D042,school,GPS Fua'amotu
+D043,school,GPS Ha'amonga
+D044,school,GPS Ha'asini
+D045,school,GPS Hala 'o Vave
+D046,school,GPS Haveluloto
+D047,school,GPS Hofoa
+D048,school,GPS Holonga
+D049,school,GPS Houma
+D050,school,GPS Kanokupolu
+D051,school,GPS Kolomotu'a
+D052,school,GPS Kolonga
+D053,school,GPS Kolovai
+D054,school,GPS Longolongo
+D055,school,GPS Ma'ufanga
+D056,school,GPS Mu'a
+D057,school,GPS Nakolo
+D058,school,GPS Ngele'ia
+D059,school,GPS Nuku'alofa
+D060,school,GPS Pelehake
+D061,school,GPS Popua
+D062,school,GPS Te'ekiu
+D063,school,GPS Vainī
+D064,school,GPS Vaotu'u
+D065,school,GPS Veitongo
+D066,school,Havelu Middle School
+D067,school,Hilliard Memorial School
+D068,school,Houma Middle School
+D069,school,Kolisi Kuini Sālōte
+D070,school,Kolisi Kuini Sālōte
+D071,school,Lavengamalie College
+D072,school,Liahona High School
+D073,school,Ma'amaloa Primary School
+D074,school,Ma'amaloa Side School
+D075,school,Mo'unga 'Olive Middle School
+D076,school,Mountford Technical Institute
+D077,school,Ocean of Light
+D078,school,SDA College Beulah
+D079,school,St Andrews College
+D080,school,St Josephs Business School
+D081,school,Tailulu College
+D082,school,Taku'ilau High School
+D083,school,Tonga College 'Atele
+D084,school,Tonga High School
+D085,school,Tonga Institute of Higher Education
+D086,school,Tonga Maritime Polytechnical Institute
+D087,school,Tonga Side School
+D088,school,Tonga Side School
+D089,school,Tupou College Toloa
+D090,school,Tupou High
+D091,school,Tupou High School
+D092,school,Tupou High School
+D093,school,Vaini Middle School
+D094,community_centre,
+D095,community_centre,
+D096,community_centre,
+D097,community_centre,
+D098,community_centre,
+D099,community_centre,
+D100,community_centre,
+D101,community_centre,'Ofisi Vahenga Tongatapu
+D102,community_centre,Fa Afuhui 'e he Ngalu Hall
+D103,community_centre,Fa'unga 'o e Komunio Hall
+D104,community_centre,Falefaiva Finefeuiaki
+D105,community_centre,Fr Mateo Lui Hall
+D106,community_centre,Holo Papai
+D107,community_centre,Holo Siafu
+D108,community_centre,Kalapu Sikolasipi Makamaile Halatukutonga
+D109,community_centre,Kalofiama 'o Epworth
+D110,community_centre,Langi Havea Hall
+D111,community_centre,Matapa ko Nakau
+D112,community_centre,Mo'unga Heamoni Hall
+D113,community_centre,Mo'unga Saione Hall
+D114,community_centre,Rasta Hall
+D115,community_centre,Siupeli Koula Hall
+D116,community_centre,Te'efohe
+D117,community_centre,Tuaikaepau
+D118,community_centre,Tukumo'ui 'Osi Senituli 20 Hall
+D119,community_centre,Tuʻivakanō Poutele Hall
+D120,place_of_worship,
+D121,place_of_worship,
+D122,place_of_worship,
+D123,place_of_worship,
+D124,place_of_worship,
+D125,place_of_worship,
+D126,place_of_worship,
+D127,place_of_worship,
+D128,place_of_worship,
+D129,place_of_worship,
+D130,place_of_worship,
+D131,place_of_worship,
+D132,place_of_worship,
+D133,place_of_worship,
+D134,place_of_worship,
+D135,place_of_worship,
+D136,place_of_worship,
+D137,place_of_worship,
+D138,place_of_worship,
+D139,place_of_worship,
+D140,place_of_worship,
+D141,place_of_worship,
+D142,place_of_worship,
+D143,place_of_worship,
+D144,place_of_worship,
+D145,place_of_worship,
+D146,place_of_worship,
+D147,place_of_worship,
+D148,place_of_worship,
+D149,place_of_worship,
+D150,place_of_worship,
+D151,place_of_worship,
+D152,place_of_worship,
+D153,place_of_worship,
+D154,place_of_worship,
+D155,place_of_worship,
+D156,place_of_worship,
+D157,place_of_worship,
+D158,place_of_worship,
+D159,place_of_worship,
+D160,place_of_worship,
+D161,place_of_worship,
+D162,place_of_worship,
+D163,place_of_worship,
+D164,place_of_worship,
+D165,place_of_worship,
+D166,place_of_worship,
+D167,place_of_worship,
+D168,place_of_worship,
+D169,place_of_worship,
+D170,place_of_worship,
+D171,place_of_worship,
+D172,place_of_worship,
+D173,place_of_worship,
+D174,place_of_worship,
+D175,place_of_worship,
+D176,place_of_worship,
+D177,place_of_worship,
+D178,place_of_worship,
+D179,place_of_worship,
+D180,place_of_worship,
+D181,place_of_worship,
+D182,place_of_worship,
+D183,place_of_worship,
+D184,place_of_worship,
+D185,place_of_worship,
+D186,place_of_worship,
+D187,place_of_worship,
+D188,place_of_worship,
+D189,place_of_worship,
+D190,place_of_worship,
+D191,place_of_worship,
+D192,place_of_worship,
+D193,place_of_worship,
+D194,place_of_worship,
+D195,place_of_worship,
+D196,place_of_worship,
+D197,place_of_worship,
+D198,place_of_worship,
+D199,place_of_worship,
+D200,place_of_worship,
+D201,place_of_worship,
+D202,place_of_worship,
+D203,place_of_worship,
+D204,place_of_worship,
+D205,place_of_worship,
+D206,place_of_worship,
+D207,place_of_worship,
+D208,place_of_worship,
+D209,place_of_worship,
+D210,place_of_worship,
+D211,place_of_worship,
+D212,place_of_worship,
+D213,place_of_worship,
+D214,place_of_worship,
+D215,place_of_worship,
+D216,place_of_worship,
+D217,place_of_worship,
+D218,place_of_worship,
+D219,place_of_worship,
+D220,place_of_worship,
+D221,place_of_worship,
+D222,place_of_worship,
+D223,place_of_worship,
+D224,place_of_worship,
+D225,place_of_worship,
+D226,place_of_worship,
+D227,place_of_worship,
+D228,place_of_worship,
+D229,place_of_worship,
+D230,place_of_worship,
+D231,place_of_worship,
+D232,place_of_worship,
+D233,place_of_worship,
+D234,place_of_worship,
+D235,place_of_worship,
+D236,place_of_worship,
+D237,place_of_worship,
+D238,place_of_worship,
+D239,place_of_worship,
+D240,place_of_worship,
+D241,place_of_worship,
+D242,place_of_worship,
+D243,place_of_worship,
+D244,place_of_worship,
+D245,place_of_worship,
+D246,place_of_worship,
+D247,place_of_worship,
+D248,place_of_worship,
+D249,place_of_worship,
+D250,place_of_worship,
+D251,place_of_worship,
+D252,place_of_worship,
+D253,place_of_worship,
+D254,place_of_worship,
+D255,place_of_worship,
+D256,place_of_worship,
+D257,place_of_worship,
+D258,place_of_worship,
+D259,place_of_worship,
+D260,place_of_worship,
+D261,place_of_worship,
+D262,place_of_worship,
+D263,place_of_worship,
+D264,place_of_worship,
+D265,place_of_worship,
+D266,place_of_worship,
+D267,place_of_worship,
+D268,place_of_worship,
+D269,place_of_worship,
+D270,place_of_worship,
+D271,place_of_worship,
+D272,place_of_worship,
+D273,place_of_worship,
+D274,place_of_worship,
+D275,place_of_worship,
+D276,place_of_worship,
+D277,place_of_worship,
+D278,place_of_worship,
+D279,place_of_worship,
+D280,place_of_worship,
+D281,place_of_worship,
+D282,place_of_worship,
+D283,place_of_worship,
+D284,place_of_worship,
+D285,place_of_worship,
+D286,place_of_worship,
+D287,place_of_worship,
+D288,place_of_worship,
+D289,place_of_worship,
+D290,place_of_worship,
+D291,place_of_worship,
+D292,place_of_worship,
+D293,place_of_worship,
+D294,place_of_worship,
+D295,place_of_worship,
+D296,place_of_worship,
+D297,place_of_worship,
+D298,place_of_worship,
+D299,place_of_worship,
+D300,place_of_worship,
+D301,place_of_worship,
+D302,place_of_worship,
+D303,place_of_worship,
+D304,place_of_worship,
+D305,place_of_worship,
+D306,place_of_worship,
+D307,place_of_worship,
+D308,place_of_worship,
+D309,place_of_worship,
+D310,place_of_worship,
+D311,place_of_worship,'Api Nofo'anga 'oe Kau Taupo'ou
+D312,place_of_worship,'Api ko Matavai Mo'ui Tafe ki Tonga
+D313,place_of_worship,'Apifo'ou Hall
+D314,place_of_worship,Amelia Talia Hall
+D315,place_of_worship,Assemblies of God
+D316,place_of_worship,Assemblies of God
+D317,place_of_worship,Basilica of St. Anthony of Padua
+D318,place_of_worship,Cathedral
+D319,place_of_worship,Dr Moulton Memorial Chapel
+D320,place_of_worship,FW Kumifonua
+D321,place_of_worship,FWC Fanga 'o Pilolevu
+D322,place_of_worship,FWC Hofoa
+D323,place_of_worship,FWC Tongata'eapa
+D324,place_of_worship,FWC Tufuenga
+D325,place_of_worship,Falelotu Fakamanatu Senituli Siasi Uesiliana Tau'ataina 'o Tonga
+D326,place_of_worship,Falelotu Mo'ui Fo'ou Kalaisi
+D327,place_of_worship,Falelotu ko Saione
+D328,place_of_worship,Faleola Hall
+D329,place_of_worship,Fatufatu Fala 'i Falelalava.
+D330,place_of_worship,Free Wesleyan Church of Tonga
+D331,place_of_worship,Free Wesleyan Church of Tonga SUTT Ma'ufanga
+D332,place_of_worship,Free Wesleyan of Tonga Fasi & Afi
+D333,place_of_worship,Holo Molitoni
+D334,place_of_worship,Huhu'i.
+D335,place_of_worship,International Christian Assembly
+D336,place_of_worship,Koe Falelotu ko Matiu
+D337,place_of_worship,Koe Siasi Uesiliana Tau'ataina 'o Tonga Fua'amotu Falelotu
+D338,place_of_worship,LDS Church
+D339,place_of_worship,LDS Church
+D340,place_of_worship,LDS Church
+D341,place_of_worship,LDS Church
+D342,place_of_worship,LDS Church
+D343,place_of_worship,LDS Hofoa
+D344,place_of_worship,LDS Matavaimo'ui
+D345,place_of_worship,Malia Tupu Imakulata Cathedral
+D346,place_of_worship,Malia koe Fa'e 'ae Ha'alalo
+D347,place_of_worship,Nuku'alofa Tonga Temple
+D348,place_of_worship,SUTT Hala 'o Vave
+D349,place_of_worship,SUTT Hala Maui
+D350,place_of_worship,Sangato Viani
+D351,place_of_worship,Seventh Day Adventist Church
+D352,place_of_worship,Seventh-day Adventist Church
+D353,place_of_worship,Siasi 'o Tonga
+D354,place_of_worship,Siasi Konisitūtone Tau'atāina o Tonga
+D355,place_of_worship,Siasi Tonga Hou'eiki
+D356,place_of_worship,Siasi Tonga Tau'ataina
+D357,place_of_worship,Siasi Uesiliana Tauataina o Tonga
+D358,place_of_worship,Sione Pukemo'ui 'Aipolo Hall
+D359,place_of_worship,Skips
+D360,place_of_worship,St Michael's Church
+D361,place_of_worship,St. Barnabas Anglican Church
+D362,place_of_worship,St. Pauls
+D363,place_of_worship,Walk By Faith Church

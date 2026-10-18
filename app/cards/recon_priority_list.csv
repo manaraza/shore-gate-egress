@@ -1,0 +1,5 @@
+rank_baseline,site_id,score,confidence,dist_lagoon_mouth_km,recon_reason,what_to_verify,dest_t1_label,length_m_t1,lat,lon
+2,S002,86.38,0.36,0.69,"top-ranked, weak evidence; approach near lagoon mouth","Ground conditions and damage on landing zone and route · Approach depth, reef and channel at lagoon entrance",Mu'a Hospital,6200.0,-21.147170869289777,-175.12515163849818
+7,S007,83.45,0.55,0.06,approach near lagoon mouth,"Approach depth, reef and channel at lagoon entrance",Mu'a Hospital,6971.0,-21.152894273139548,-175.12816053260613
+8,S008,82.52,0.41,4.55,"top-ranked, weak evidence",Ground conditions and damage on landing zone and route,Mu'a Hospital,5476.0,-21.190293714481854,-175.08849440177093
+9,S009,82.47,0.46,7.68,"top-ranked, weak evidence",Ground conditions and damage on landing zone and route,Vainī Hospital,6136.0,-21.20683692440484,-175.22216065089484
