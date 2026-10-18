@@ -1,0 +1,28 @@
+{
+  "weights": {
+    "hazard_safety": 0.25,
+    "corridor_efficiency": 0.25,
+    "road_connectivity": 0.2,
+    "destination_access": 0.15,
+    "data_confidence": 0.15
+  },
+  "spacing_m": 500,
+  "mangrove_max": 0.5,
+  "cliff_slope_deg": 15,
+  "landing_zone_r_m": 250,
+  "n_eligible": 112,
+  "n_ranked": 112,
+  "lagoon_mouth_lat": -21.1534,
+  "lagoon_mouth_lon": [
+    -175.175,
+    -175.1077
+  ],
+  "lagoon_seed_lonlat": [
+    -175.1278,
+    -21.1681
+  ],
+  "lagoon_km2": 28.21,
+  "recon_top_n": 15,
+  "recon_conf_low": 0.5,
+  "recon_mouth_km": 1.0
+}

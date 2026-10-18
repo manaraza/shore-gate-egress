@@ -1,0 +1,1936 @@
+damage_gra,obj_type,dmg_src_id,mean
+Damaged,11-Residential Buildings,3,0.40025392174720764
+Damaged,11-Residential Buildings,4,0.4610077738761902
+Damaged,11-Residential Buildings,5,
+Destroyed,11-Residential Buildings,5,0.6369272470474243
+Possibly damaged,11-Residential Buildings,3,0.6402864456176758
+Possibly damaged,11-Residential Buildings,3,
+Possibly damaged,11-Residential Buildings,3,0.5152165293693542
+Possibly damaged,11-Residential Buildings,3,
+Possibly damaged,11-Residential Buildings,3,0.5152165293693542
+Possibly damaged,11-Residential Buildings,3,0.4428574740886688
+Possibly damaged,11-Residential Buildings,3,0.35591572523117065
+Possibly damaged,11-Residential Buildings,3,0.49616721272468567
+Possibly damaged,11-Residential Buildings,3,0.49616721272468567
+Possibly damaged,11-Residential Buildings,3,0.49616721272468567
+Possibly damaged,11-Residential Buildings,3,0.43666690587997437
+Possibly damaged,11-Residential Buildings,3,0.43666690587997437
+Possibly damaged,11-Residential Buildings,4,
+Possibly damaged,11-Residential Buildings,4,
+Possibly damaged,11-Residential Buildings,4,0.4453723728656769
+Possibly damaged,11-Residential Buildings,4,0.4453723728656769
+Possibly damaged,11-Residential Buildings,4,0.78243088722229
+Possibly damaged,11-Residential Buildings,4,0.40733879804611206
+Possibly damaged,11-Residential Buildings,4,0.6869177222251892
+Possibly damaged,11-Residential Buildings,4,0.703861653804779
+Possibly damaged,11-Residential Buildings,4,0.7548246383666992
+Possibly damaged,11-Residential Buildings,4,0.6051861047744751
+Possibly damaged,11-Residential Buildings,4,0.49324843287467957
+Possibly damaged,11-Residential Buildings,4,0.5614989995956421
+Possibly damaged,11-Residential Buildings,4,
+Possibly damaged,11-Residential Buildings,4,0.5916716456413269
+Possibly damaged,11-Residential Buildings,4,0.24221928417682648
+Possibly damaged,11-Residential Buildings,4,0.5300894379615784
+Possibly damaged,11-Residential Buildings,4,0.5300894379615784
+Possibly damaged,11-Residential Buildings,4,0.5300894379615784
+Possibly damaged,11-Residential Buildings,4,0.4588119685649872
+Possibly damaged,11-Residential Buildings,4,0.5045515894889832
+Possibly damaged,11-Residential Buildings,4,0.3163984715938568
+Possibly damaged,11-Residential Buildings,4,0.5196874141693115
+Possibly damaged,11-Residential Buildings,4,0.78243088722229
+Possibly damaged,11-Residential Buildings,4,0.49387192726135254
+Possibly damaged,11-Residential Buildings,4,0.4610345959663391
+Possibly damaged,11-Residential Buildings,4,0.313049852848053
+Possibly damaged,11-Residential Buildings,4,0.33306509256362915
+Possibly damaged,11-Residential Buildings,4,0.46314990520477295
+Possibly damaged,11-Residential Buildings,4,0.4610345959663391
+Possibly damaged,11-Residential Buildings,5,0.3202323019504547
+Possibly damaged,11-Residential Buildings,5,0.4536103308200836
+Possibly damaged,11-Residential Buildings,5,0.49803587794303894
+Possibly damaged,11-Residential Buildings,5,0.48268815875053406
+Possibly damaged,11-Residential Buildings,5,0.5694510340690613
+Possibly damaged,11-Residential Buildings,5,0.48195207118988037
+Possibly damaged,11-Residential Buildings,5,0.5021018385887146
+Possibly damaged,11-Residential Buildings,5,0.5719948410987854
+Possibly damaged,11-Residential Buildings,5,0.41659295558929443
+Possibly damaged,11-Residential Buildings,5,0.42407429218292236
+Possibly damaged,11-Residential Buildings,5,0.42407429218292236
+Possibly damaged,11-Residential Buildings,5,0.3644069731235504
+Possibly damaged,11-Residential Buildings,5,
+Possibly damaged,11-Residential Buildings,5,0.45444783568382263
+Possibly damaged,11-Residential Buildings,5,0.5749407410621643
+Possibly damaged,11-Residential Buildings,5,0.7999020218849182
+Possibly damaged,11-Residential Buildings,5,
+Possibly damaged,11-Residential Buildings,5,0.6940891146659851
+Possibly damaged,11-Residential Buildings,5,0.37511998414993286
+Damaged,12-Non-residential Buildings,4,0.8331606984138489
+Damaged,12-Non-residential Buildings,5,
+Damaged,12-Non-residential Buildings,5,0.47789129614830017
+Damaged,12-Non-residential Buildings,5,
+Destroyed,12-Non-residential Buildings,3,0.4922593832015991
+Destroyed,12-Non-residential Buildings,5,
+Destroyed,12-Non-residential Buildings,5,0.5003048777580261
+Destroyed,12-Non-residential Buildings,5,0.3354397714138031
+Destroyed,12-Non-residential Buildings,5,0.8284820914268494
+Destroyed,12-Non-residential Buildings,5,
+Destroyed,12-Non-residential Buildings,5,
+Destroyed,12-Non-residential Buildings,5,
+Destroyed,12-Non-residential Buildings,5,
+Destroyed,12-Non-residential Buildings,5,
+Destroyed,12-Non-residential Buildings,5,
+Destroyed,12-Non-residential Buildings,5,
+Destroyed,12-Non-residential Buildings,5,
+Destroyed,12-Non-residential Buildings,5,0.719247043132782
+Destroyed,12-Non-residential Buildings,5,
+Destroyed,12-Non-residential Buildings,5,
+Destroyed,12-Non-residential Buildings,5,0.5868968963623047
+Destroyed,12-Non-residential Buildings,5,0.5229188203811646
+Destroyed,12-Non-residential Buildings,5,0.5229188203811646
+Destroyed,12-Non-residential Buildings,5,0.5229188203811646
+Destroyed,12-Non-residential Buildings,5,
+Possibly damaged,12-Non-residential Buildings,3,0.33707916736602783
+Possibly damaged,12-Non-residential Buildings,3,
+Possibly damaged,12-Non-residential Buildings,3,0.6090338826179504
+Possibly damaged,12-Non-residential Buildings,3,0.6090338826179504
+Possibly damaged,12-Non-residential Buildings,3,0.6294608116149902
+Possibly damaged,12-Non-residential Buildings,3,0.3289107084274292
+Possibly damaged,12-Non-residential Buildings,3,0.6417379379272461
+Possibly damaged,12-Non-residential Buildings,3,0.6214317679405212
+Possibly damaged,12-Non-residential Buildings,4,
+Possibly damaged,12-Non-residential Buildings,4,
+Possibly damaged,12-Non-residential Buildings,4,0.30843105912208557
+Possibly damaged,12-Non-residential Buildings,5,0.8525550365447998
+Possibly damaged,12-Non-residential Buildings,5,
+Possibly damaged,12-Non-residential Buildings,5,
+Possibly damaged,12-Non-residential Buildings,5,0.5961877703666687
+Possibly damaged,12-Non-residential Buildings,5,0.5961877703666687
+Possibly damaged,12-Non-residential Buildings,5,0.5732837915420532
+Possibly damaged,12-Non-residential Buildings,5,
+Possibly damaged,12-Non-residential Buildings,5,
+Possibly damaged,12-Non-residential Buildings,5,0.46877890825271606
+Damaged,995-Unclassified,3,0.6778544187545776
+Damaged,995-Unclassified,3,0.6191474795341492
+Damaged,995-Unclassified,3,0.7969080805778503
+Damaged,995-Unclassified,3,0.5203068852424622
+Damaged,995-Unclassified,3,0.5491913557052612
+Damaged,995-Unclassified,3,0.301570326089859
+Damaged,995-Unclassified,3,0.4345752000808716
+Damaged,995-Unclassified,3,0.4659603238105774
+Damaged,995-Unclassified,3,0.33583319187164307
+Damaged,995-Unclassified,3,
+Damaged,995-Unclassified,4,0.7043360471725464
+Damaged,995-Unclassified,4,
+Damaged,995-Unclassified,4,0.9292080998420715
+Damaged,995-Unclassified,4,0.6107620596885681
+Damaged,995-Unclassified,4,0.36806440353393555
+Damaged,995-Unclassified,4,0.7306848168373108
+Damaged,995-Unclassified,4,0.7306848168373108
+Damaged,995-Unclassified,4,0.6981881856918335
+Damaged,995-Unclassified,4,0.8642341494560242
+Damaged,995-Unclassified,4,0.8325055837631226
+Damaged,995-Unclassified,4,0.8642341494560242
+Damaged,995-Unclassified,4,0.80772465467453
+Damaged,995-Unclassified,4,0.6757093667984009
+Damaged,995-Unclassified,4,0.7674750089645386
+Damaged,995-Unclassified,4,0.8325055837631226
+Damaged,995-Unclassified,4,
+Damaged,995-Unclassified,4,0.8331606984138489
+Damaged,995-Unclassified,4,
+Damaged,995-Unclassified,4,0.8331606984138489
+Damaged,995-Unclassified,4,0.7674750089645386
+Damaged,995-Unclassified,4,
+Damaged,995-Unclassified,4,
+Damaged,995-Unclassified,4,0.7674750089645386
+Damaged,995-Unclassified,4,
+Damaged,995-Unclassified,4,0.7325108051300049
+Damaged,995-Unclassified,4,0.6042400002479553
+Damaged,995-Unclassified,4,0.6042400002479553
+Damaged,995-Unclassified,4,0.6042400002479553
+Damaged,995-Unclassified,4,0.765101969242096
+Damaged,995-Unclassified,4,
+Damaged,995-Unclassified,4,
+Damaged,995-Unclassified,4,
+Damaged,995-Unclassified,4,0.6622963547706604
+Damaged,995-Unclassified,4,0.6042400002479553
+Damaged,995-Unclassified,4,0.765101969242096
+Damaged,995-Unclassified,4,
+Damaged,995-Unclassified,4,
+Damaged,995-Unclassified,4,0.765101969242096
+Damaged,995-Unclassified,4,
+Damaged,995-Unclassified,5,
+Damaged,995-Unclassified,5,0.42372721433639526
+Damaged,995-Unclassified,5,0.323379248380661
+Damaged,995-Unclassified,5,0.3974894881248474
+Damaged,995-Unclassified,5,
+Damaged,995-Unclassified,5,0.458577424287796
+Damaged,995-Unclassified,5,0.458577424287796
+Damaged,995-Unclassified,5,
+Damaged,995-Unclassified,5,0.3126637935638428
+Damaged,995-Unclassified,5,0.4737551510334015
+Damaged,995-Unclassified,5,0.4737551510334015
+Damaged,995-Unclassified,5,
+Damaged,995-Unclassified,5,
+Damaged,995-Unclassified,5,
+Damaged,995-Unclassified,5,
+Damaged,995-Unclassified,5,0.653809666633606
+Damaged,995-Unclassified,5,
+Damaged,995-Unclassified,5,0.4295119047164917
+Damaged,995-Unclassified,5,
+Damaged,995-Unclassified,5,0.6204150319099426
+Damaged,995-Unclassified,5,0.5697723031044006
+Damaged,995-Unclassified,5,
+Damaged,995-Unclassified,5,0.5944837331771851
+Damaged,995-Unclassified,5,
+Damaged,995-Unclassified,5,
+Damaged,995-Unclassified,5,0.723856508731842
+Damaged,995-Unclassified,5,0.48328882455825806
+Damaged,995-Unclassified,5,0.5868968963623047
+Damaged,995-Unclassified,5,0.49216175079345703
+Damaged,995-Unclassified,5,0.5798534154891968
+Damaged,995-Unclassified,5,0.5798534154891968
+Destroyed,995-Unclassified,3,
+Destroyed,995-Unclassified,3,0.6069454550743103
+Destroyed,995-Unclassified,3,0.6957982182502747
+Destroyed,995-Unclassified,3,0.3447059094905853
+Destroyed,995-Unclassified,3,0.6933159232139587
+Destroyed,995-Unclassified,3,
+Destroyed,995-Unclassified,3,
+Destroyed,995-Unclassified,4,
+Destroyed,995-Unclassified,4,0.5259579420089722
+Destroyed,995-Unclassified,4,0.2419092059135437
+Destroyed,995-Unclassified,4,0.5943971872329712
+Destroyed,995-Unclassified,4,0.5943971872329712
+Destroyed,995-Unclassified,4,0.44998687505722046
+Destroyed,995-Unclassified,4,
+Destroyed,995-Unclassified,4,0.6356338262557983
+Destroyed,995-Unclassified,4,0.6356338262557983
+Destroyed,995-Unclassified,4,0.601280689239502
+Destroyed,995-Unclassified,4,
+Destroyed,995-Unclassified,4,0.5543580651283264
+Destroyed,995-Unclassified,4,0.5543580651283264
+Destroyed,995-Unclassified,4,0.5391189455986023
+Destroyed,995-Unclassified,4,0.6800796389579773
+Destroyed,995-Unclassified,4,
+Destroyed,995-Unclassified,4,
+Destroyed,995-Unclassified,4,0.73671954870224
+Destroyed,995-Unclassified,4,0.6978035569190979
+Destroyed,995-Unclassified,4,0.6978035569190979
+Destroyed,995-Unclassified,4,0.7908405065536499
+Destroyed,995-Unclassified,5,0.6913599371910095
+Destroyed,995-Unclassified,5,0.5858660936355591
+Destroyed,995-Unclassified,5,0.42372721433639526
+Destroyed,995-Unclassified,5,0.45444783568382263
+Destroyed,995-Unclassified,5,0.45444783568382263
+Destroyed,995-Unclassified,5,0.5219298005104065
+Destroyed,995-Unclassified,5,0.6959514617919922
+Destroyed,995-Unclassified,5,0.7219853401184082
+Destroyed,995-Unclassified,5,0.7326626181602478
+Destroyed,995-Unclassified,5,0.7313665747642517
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,0.5207914710044861
+Destroyed,995-Unclassified,5,0.5207914710044861
+Destroyed,995-Unclassified,5,0.5207914710044861
+Destroyed,995-Unclassified,5,0.5898677110671997
+Destroyed,995-Unclassified,5,0.5257664918899536
+Destroyed,995-Unclassified,5,0.5257664918899536
+Destroyed,995-Unclassified,5,0.5655835866928101
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,0.4145646095275879
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,0.42117318511009216
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,0.6619542837142944
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,0.5650587677955627
+Destroyed,995-Unclassified,5,0.6619542837142944
+Destroyed,995-Unclassified,5,0.5650587677955627
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,0.4464747905731201
+Destroyed,995-Unclassified,5,0.4464747905731201
+Destroyed,995-Unclassified,5,0.5898677110671997
+Destroyed,995-Unclassified,5,0.49522215127944946
+Destroyed,995-Unclassified,5,0.49522215127944946
+Destroyed,995-Unclassified,5,0.49522215127944946
+Destroyed,995-Unclassified,5,0.5881091952323914
+Destroyed,995-Unclassified,5,0.3352905511856079
+Destroyed,995-Unclassified,5,0.5881091952323914
+Destroyed,995-Unclassified,5,0.3352905511856079
+Destroyed,995-Unclassified,5,0.5881091952323914
+Destroyed,995-Unclassified,5,0.3352905511856079
+Destroyed,995-Unclassified,5,0.5881091952323914
+Destroyed,995-Unclassified,5,0.6441048383712769
+Destroyed,995-Unclassified,5,0.6441048383712769
+Destroyed,995-Unclassified,5,0.6711580157279968
+Destroyed,995-Unclassified,5,0.7609325051307678
+Destroyed,995-Unclassified,5,0.44145360589027405
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,0.4523797333240509
+Destroyed,995-Unclassified,5,
+Destroyed,995-Unclassified,5,0.7990896701812744
+Destroyed,995-Unclassified,5,0.7990896701812744
+Destroyed,995-Unclassified,5,0.7990896701812744
+Destroyed,995-Unclassified,5,0.7990896701812744
+Destroyed,995-Unclassified,5,0.6157421469688416
+Destroyed,995-Unclassified,5,0.564816951751709
+Destroyed,995-Unclassified,5,0.5602866411209106
+Destroyed,995-Unclassified,5,0.45444783568382263
+Destroyed,995-Unclassified,5,0.3917471170425415
+Destroyed,995-Unclassified,5,0.7447131872177124
+Destroyed,995-Unclassified,5,0.7200128436088562
+Destroyed,995-Unclassified,5,0.6385527849197388
+Destroyed,995-Unclassified,5,0.6038936376571655
+Destroyed,995-Unclassified,5,0.6606540679931641
+Destroyed,995-Unclassified,5,0.6038936376571655
+Destroyed,995-Unclassified,5,0.7252277135848999
+Destroyed,995-Unclassified,5,0.7770432829856873
+Destroyed,995-Unclassified,5,0.7619200944900513
+Destroyed,995-Unclassified,5,0.5744724273681641
+Possibly damaged,995-Unclassified,3,0.5618583559989929
+Possibly damaged,995-Unclassified,3,0.7839318513870239
+Possibly damaged,995-Unclassified,3,0.24978481233119965
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.4925101697444916
+Possibly damaged,995-Unclassified,3,0.3020593225955963
+Possibly damaged,995-Unclassified,3,0.49352213740348816
+Possibly damaged,995-Unclassified,3,0.6828278303146362
+Possibly damaged,995-Unclassified,3,0.7568482160568237
+Possibly damaged,995-Unclassified,3,0.6602271795272827
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.33349114656448364
+Possibly damaged,995-Unclassified,3,0.39316126704216003
+Possibly damaged,995-Unclassified,3,0.39316126704216003
+Possibly damaged,995-Unclassified,3,0.3082403540611267
+Possibly damaged,995-Unclassified,3,0.34230849146842957
+Possibly damaged,995-Unclassified,3,0.3714730143547058
+Possibly damaged,995-Unclassified,3,0.34230849146842957
+Possibly damaged,995-Unclassified,3,0.41791465878486633
+Possibly damaged,995-Unclassified,3,0.2109605073928833
+Possibly damaged,995-Unclassified,3,0.5976141095161438
+Possibly damaged,995-Unclassified,3,0.5863112807273865
+Possibly damaged,995-Unclassified,3,0.4911517798900604
+Possibly damaged,995-Unclassified,3,0.67271888256073
+Possibly damaged,995-Unclassified,3,0.7482215762138367
+Possibly damaged,995-Unclassified,3,0.7071329355239868
+Possibly damaged,995-Unclassified,3,0.7570090889930725
+Possibly damaged,995-Unclassified,3,0.7926198244094849
+Possibly damaged,995-Unclassified,3,0.6936869621276855
+Possibly damaged,995-Unclassified,3,0.6445645093917847
+Possibly damaged,995-Unclassified,3,0.39560073614120483
+Possibly damaged,995-Unclassified,3,0.5411981344223022
+Possibly damaged,995-Unclassified,3,0.3999193012714386
+Possibly damaged,995-Unclassified,3,0.6274591088294983
+Possibly damaged,995-Unclassified,3,0.3999193012714386
+Possibly damaged,995-Unclassified,3,0.45999786257743835
+Possibly damaged,995-Unclassified,3,0.37632161378860474
+Possibly damaged,995-Unclassified,3,0.39956843852996826
+Possibly damaged,995-Unclassified,3,0.5668740272521973
+Possibly damaged,995-Unclassified,3,0.3086443543434143
+Possibly damaged,995-Unclassified,3,0.5668740272521973
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.5959926247596741
+Possibly damaged,995-Unclassified,3,0.7043360471725464
+Possibly damaged,995-Unclassified,3,0.7043360471725464
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.4898656904697418
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.4898656904697418
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.49353310465812683
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.5886778235435486
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.5445989370346069
+Possibly damaged,995-Unclassified,3,0.6473142504692078
+Possibly damaged,995-Unclassified,3,0.6473142504692078
+Possibly damaged,995-Unclassified,3,0.32794150710105896
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.32794150710105896
+Possibly damaged,995-Unclassified,3,0.374544620513916
+Possibly damaged,995-Unclassified,3,0.32794150710105896
+Possibly damaged,995-Unclassified,3,0.26027941703796387
+Possibly damaged,995-Unclassified,3,0.39230361580848694
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.256664514541626
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.256664514541626
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.7141172885894775
+Possibly damaged,995-Unclassified,3,0.644917368888855
+Possibly damaged,995-Unclassified,3,0.7613832950592041
+Possibly damaged,995-Unclassified,3,0.7613832950592041
+Possibly damaged,995-Unclassified,3,0.6549798250198364
+Possibly damaged,995-Unclassified,3,0.6540395021438599
+Possibly damaged,995-Unclassified,3,0.6540395021438599
+Possibly damaged,995-Unclassified,3,0.6402864456176758
+Possibly damaged,995-Unclassified,3,0.3480421006679535
+Possibly damaged,995-Unclassified,3,0.2840125262737274
+Possibly damaged,995-Unclassified,3,0.3302377462387085
+Possibly damaged,995-Unclassified,3,0.3302377462387085
+Possibly damaged,995-Unclassified,3,0.3302377462387085
+Possibly damaged,995-Unclassified,3,0.2811928987503052
+Possibly damaged,995-Unclassified,3,0.5447319149971008
+Possibly damaged,995-Unclassified,3,0.5322708487510681
+Possibly damaged,995-Unclassified,3,0.6843511462211609
+Possibly damaged,995-Unclassified,3,0.5157151818275452
+Possibly damaged,995-Unclassified,3,0.6214317679405212
+Possibly damaged,995-Unclassified,3,0.6709180474281311
+Possibly damaged,995-Unclassified,3,0.7166304588317871
+Possibly damaged,995-Unclassified,3,0.3013717830181122
+Possibly damaged,995-Unclassified,3,0.47233065962791443
+Possibly damaged,995-Unclassified,3,0.47233065962791443
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.40944862365722656
+Possibly damaged,995-Unclassified,3,0.47732940316200256
+Possibly damaged,995-Unclassified,3,0.6451123952865601
+Possibly damaged,995-Unclassified,3,0.62674880027771
+Possibly damaged,995-Unclassified,3,0.6451123952865601
+Possibly damaged,995-Unclassified,3,0.6451123952865601
+Possibly damaged,995-Unclassified,3,0.62674880027771
+Possibly damaged,995-Unclassified,3,0.4814225137233734
+Possibly damaged,995-Unclassified,3,0.5933930277824402
+Possibly damaged,995-Unclassified,3,0.5933930277824402
+Possibly damaged,995-Unclassified,3,0.5019018650054932
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.4284264147281647
+Possibly damaged,995-Unclassified,3,0.24468521773815155
+Possibly damaged,995-Unclassified,3,0.2503112852573395
+Possibly damaged,995-Unclassified,3,0.3738470673561096
+Possibly damaged,995-Unclassified,3,0.2503112852573395
+Possibly damaged,995-Unclassified,3,0.3021749258041382
+Possibly damaged,995-Unclassified,3,0.3403940498828888
+Possibly damaged,995-Unclassified,3,0.3021749258041382
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.5374497771263123
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.34537196159362793
+Possibly damaged,995-Unclassified,3,0.5959926247596741
+Possibly damaged,995-Unclassified,3,0.6626183986663818
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.34537196159362793
+Possibly damaged,995-Unclassified,3,0.34537196159362793
+Possibly damaged,995-Unclassified,3,0.48438534140586853
+Possibly damaged,995-Unclassified,3,0.4378896653652191
+Possibly damaged,995-Unclassified,3,0.5652971863746643
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.3590502142906189
+Possibly damaged,995-Unclassified,3,0.5872053503990173
+Possibly damaged,995-Unclassified,3,0.40274348855018616
+Possibly damaged,995-Unclassified,3,0.3590502142906189
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.589141309261322
+Possibly damaged,995-Unclassified,3,0.589141309261322
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.16569527983665466
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.32655879855155945
+Possibly damaged,995-Unclassified,3,0.32353144884109497
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.5166256427764893
+Possibly damaged,995-Unclassified,3,0.32650861144065857
+Possibly damaged,995-Unclassified,3,0.48137083649635315
+Possibly damaged,995-Unclassified,3,0.5653720498085022
+Possibly damaged,995-Unclassified,3,0.5653720498085022
+Possibly damaged,995-Unclassified,3,0.34835636615753174
+Possibly damaged,995-Unclassified,3,0.48438534140586853
+Possibly damaged,995-Unclassified,3,0.4066247344017029
+Possibly damaged,995-Unclassified,3,0.20289576053619385
+Possibly damaged,995-Unclassified,3,0.7091478705406189
+Possibly damaged,995-Unclassified,3,0.6893973350524902
+Possibly damaged,995-Unclassified,3,0.39495837688446045
+Possibly damaged,995-Unclassified,3,0.3750413954257965
+Possibly damaged,995-Unclassified,3,0.5457437038421631
+Possibly damaged,995-Unclassified,3,0.22871166467666626
+Possibly damaged,995-Unclassified,3,0.2333105057477951
+Possibly damaged,995-Unclassified,3,0.5411183834075928
+Possibly damaged,995-Unclassified,3,0.34491869807243347
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.3546725809574127
+Possibly damaged,995-Unclassified,3,0.383137047290802
+Possibly damaged,995-Unclassified,3,0.30181652307510376
+Possibly damaged,995-Unclassified,3,0.6439304351806641
+Possibly damaged,995-Unclassified,3,0.28496065735816956
+Possibly damaged,995-Unclassified,3,0.4012017548084259
+Possibly damaged,995-Unclassified,3,0.3830583393573761
+Possibly damaged,995-Unclassified,3,0.5027492046356201
+Possibly damaged,995-Unclassified,3,0.7165992259979248
+Possibly damaged,995-Unclassified,3,0.550277829170227
+Possibly damaged,995-Unclassified,3,0.383137047290802
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.39956843852996826
+Possibly damaged,995-Unclassified,3,0.37632161378860474
+Possibly damaged,995-Unclassified,3,0.274212509393692
+Possibly damaged,995-Unclassified,3,0.274212509393692
+Possibly damaged,995-Unclassified,3,0.2883146107196808
+Possibly damaged,995-Unclassified,3,0.4113427996635437
+Possibly damaged,995-Unclassified,3,0.40575775504112244
+Possibly damaged,995-Unclassified,3,0.4934285283088684
+Possibly damaged,995-Unclassified,3,0.6609014272689819
+Possibly damaged,995-Unclassified,3,0.4215359687805176
+Possibly damaged,995-Unclassified,3,0.48066267371177673
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.38009393215179443
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.3543521761894226
+Possibly damaged,995-Unclassified,3,0.5216538310050964
+Possibly damaged,995-Unclassified,3,0.5216538310050964
+Possibly damaged,995-Unclassified,3,0.5666655898094177
+Possibly damaged,995-Unclassified,3,0.5666655898094177
+Possibly damaged,995-Unclassified,3,0.5666655898094177
+Possibly damaged,995-Unclassified,3,0.47674039006233215
+Possibly damaged,995-Unclassified,3,0.47674039006233215
+Possibly damaged,995-Unclassified,3,0.639872133731842
+Possibly damaged,995-Unclassified,3,0.47674039006233215
+Possibly damaged,995-Unclassified,3,0.24028773605823517
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.47674039006233215
+Possibly damaged,995-Unclassified,3,0.47674039006233215
+Possibly damaged,995-Unclassified,3,0.47674039006233215
+Possibly damaged,995-Unclassified,3,0.47674039006233215
+Possibly damaged,995-Unclassified,3,0.47674039006233215
+Possibly damaged,995-Unclassified,3,0.4065018594264984
+Possibly damaged,995-Unclassified,3,0.24028773605823517
+Possibly damaged,995-Unclassified,3,0.5255874395370483
+Possibly damaged,995-Unclassified,3,0.4065018594264984
+Possibly damaged,995-Unclassified,3,0.5255874395370483
+Possibly damaged,995-Unclassified,3,0.4065018594264984
+Possibly damaged,995-Unclassified,3,0.4065018594264984
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.493376761674881
+Possibly damaged,995-Unclassified,3,0.493376761674881
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.493376761674881
+Possibly damaged,995-Unclassified,3,0.493376761674881
+Possibly damaged,995-Unclassified,3,0.6431952714920044
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.591076672077179
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.5943397879600525
+Possibly damaged,995-Unclassified,3,0.5943397879600525
+Possibly damaged,995-Unclassified,3,0.5943397879600525
+Possibly damaged,995-Unclassified,3,0.6294608116149902
+Possibly damaged,995-Unclassified,3,0.6112936735153198
+Possibly damaged,995-Unclassified,3,0.4617447257041931
+Possibly damaged,995-Unclassified,3,0.4617447257041931
+Possibly damaged,995-Unclassified,3,0.7026286125183105
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.30935412645339966
+Possibly damaged,995-Unclassified,3,0.32599130272865295
+Possibly damaged,995-Unclassified,3,0.5293046236038208
+Possibly damaged,995-Unclassified,3,0.4996787905693054
+Possibly damaged,995-Unclassified,3,0.32599130272865295
+Possibly damaged,995-Unclassified,3,0.32599130272865295
+Possibly damaged,995-Unclassified,3,0.7295078635215759
+Possibly damaged,995-Unclassified,3,0.5296152830123901
+Possibly damaged,995-Unclassified,3,0.5296152830123901
+Possibly damaged,995-Unclassified,3,0.15033526718616486
+Possibly damaged,995-Unclassified,3,0.33907943964004517
+Possibly damaged,995-Unclassified,3,0.37130531668663025
+Possibly damaged,995-Unclassified,3,0.37542036175727844
+Possibly damaged,995-Unclassified,3,0.48669546842575073
+Possibly damaged,995-Unclassified,3,0.653033971786499
+Possibly damaged,995-Unclassified,3,0.4879007935523987
+Possibly damaged,995-Unclassified,3,0.4879007935523987
+Possibly damaged,995-Unclassified,3,0.653033971786499
+Possibly damaged,995-Unclassified,3,0.4879007935523987
+Possibly damaged,995-Unclassified,3,0.570019543170929
+Possibly damaged,995-Unclassified,3,0.570019543170929
+Possibly damaged,995-Unclassified,3,0.7229744791984558
+Possibly damaged,995-Unclassified,3,0.3055242598056793
+Possibly damaged,995-Unclassified,3,0.23681914806365967
+Possibly damaged,995-Unclassified,3,0.3289107084274292
+Possibly damaged,995-Unclassified,3,0.7601171135902405
+Possibly damaged,995-Unclassified,3,0.7457654476165771
+Possibly damaged,995-Unclassified,3,0.7457654476165771
+Possibly damaged,995-Unclassified,3,0.7457654476165771
+Possibly damaged,995-Unclassified,3,0.5348114371299744
+Possibly damaged,995-Unclassified,3,0.3614787459373474
+Possibly damaged,995-Unclassified,3,0.5348114371299744
+Possibly damaged,995-Unclassified,3,0.6602861285209656
+Possibly damaged,995-Unclassified,3,0.44614914059638977
+Possibly damaged,995-Unclassified,3,0.23681914806365967
+Possibly damaged,995-Unclassified,3,0.3289107084274292
+Possibly damaged,995-Unclassified,3,0.5925668478012085
+Possibly damaged,995-Unclassified,3,0.49002841114997864
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.7094692587852478
+Possibly damaged,995-Unclassified,3,0.8138635158538818
+Possibly damaged,995-Unclassified,3,0.6407066583633423
+Possibly damaged,995-Unclassified,3,0.3926098048686981
+Possibly damaged,995-Unclassified,3,0.2559259831905365
+Possibly damaged,995-Unclassified,3,0.2559259831905365
+Possibly damaged,995-Unclassified,3,0.3060118854045868
+Possibly damaged,995-Unclassified,3,0.4523366391658783
+Possibly damaged,995-Unclassified,3,0.24676001071929932
+Possibly damaged,995-Unclassified,3,0.4523366391658783
+Possibly damaged,995-Unclassified,3,0.49002841114997864
+Possibly damaged,995-Unclassified,3,0.8138635158538818
+Possibly damaged,995-Unclassified,3,0.6443341970443726
+Possibly damaged,995-Unclassified,3,0.6308029294013977
+Possibly damaged,995-Unclassified,3,0.6308029294013977
+Possibly damaged,995-Unclassified,3,0.28538578748703003
+Possibly damaged,995-Unclassified,3,0.6407066583633423
+Possibly damaged,995-Unclassified,3,0.3575349450111389
+Possibly damaged,995-Unclassified,3,0.28538578748703003
+Possibly damaged,995-Unclassified,3,0.28538578748703003
+Possibly damaged,995-Unclassified,3,0.28538578748703003
+Possibly damaged,995-Unclassified,3,0.43616077303886414
+Possibly damaged,995-Unclassified,3,0.3575349450111389
+Possibly damaged,995-Unclassified,3,0.47703561186790466
+Possibly damaged,995-Unclassified,3,0.18517202138900757
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.47703561186790466
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.4388768970966339
+Possibly damaged,995-Unclassified,3,0.1364680677652359
+Possibly damaged,995-Unclassified,3,0.43773922324180603
+Possibly damaged,995-Unclassified,3,0.43773922324180603
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.6414065361022949
+Possibly damaged,995-Unclassified,3,0.25642573833465576
+Possibly damaged,995-Unclassified,3,0.2875624895095825
+Possibly damaged,995-Unclassified,3,0.2875624895095825
+Possibly damaged,995-Unclassified,3,0.25642573833465576
+Possibly damaged,995-Unclassified,3,0.23119902610778809
+Possibly damaged,995-Unclassified,3,0.4617432653903961
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.48584696650505066
+Possibly damaged,995-Unclassified,3,0.5252960920333862
+Possibly damaged,995-Unclassified,3,0.201244056224823
+Possibly damaged,995-Unclassified,3,0.21640188992023468
+Possibly damaged,995-Unclassified,3,0.38009393215179443
+Possibly damaged,995-Unclassified,3,0.5299781560897827
+Possibly damaged,995-Unclassified,3,0.6371225714683533
+Possibly damaged,995-Unclassified,3,0.40652158856391907
+Possibly damaged,995-Unclassified,3,0.623081386089325
+Possibly damaged,995-Unclassified,3,0.44375360012054443
+Possibly damaged,995-Unclassified,3,0.8385108709335327
+Possibly damaged,995-Unclassified,3,0.3769509196281433
+Possibly damaged,995-Unclassified,3,0.2610222101211548
+Possibly damaged,995-Unclassified,3,0.6998503804206848
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.17379838228225708
+Possibly damaged,995-Unclassified,3,0.6314318180084229
+Possibly damaged,995-Unclassified,3,0.6810494661331177
+Possibly damaged,995-Unclassified,3,0.40944862365722656
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.4605659246444702
+Possibly damaged,995-Unclassified,3,0.45024147629737854
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.39810711145401
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.32353144884109497
+Possibly damaged,995-Unclassified,3,0.38981127738952637
+Possibly damaged,995-Unclassified,3,0.7846929430961609
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.7024630904197693
+Possibly damaged,995-Unclassified,3,0.18547911942005157
+Possibly damaged,995-Unclassified,3,0.20583629608154297
+Possibly damaged,995-Unclassified,3,0.45582953095436096
+Possibly damaged,995-Unclassified,3,0.38618505001068115
+Possibly damaged,995-Unclassified,3,0.6057033538818359
+Possibly damaged,995-Unclassified,3,0.45024147629737854
+Possibly damaged,995-Unclassified,3,0.39810711145401
+Possibly damaged,995-Unclassified,3,0.4605659246444702
+Possibly damaged,995-Unclassified,3,0.45024147629737854
+Possibly damaged,995-Unclassified,3,0.5847475528717041
+Possibly damaged,995-Unclassified,3,0.5847475528717041
+Possibly damaged,995-Unclassified,3,0.45582953095436096
+Possibly damaged,995-Unclassified,3,0.70965975522995
+Possibly damaged,995-Unclassified,3,0.70965975522995
+Possibly damaged,995-Unclassified,3,0.6145743131637573
+Possibly damaged,995-Unclassified,3,0.672465443611145
+Possibly damaged,995-Unclassified,3,0.3115980327129364
+Possibly damaged,995-Unclassified,3,0.6145743131637573
+Possibly damaged,995-Unclassified,3,0.672465443611145
+Possibly damaged,995-Unclassified,3,0.15403684973716736
+Possibly damaged,995-Unclassified,3,0.7091478705406189
+Possibly damaged,995-Unclassified,3,0.5187832117080688
+Possibly damaged,995-Unclassified,3,0.653033971786499
+Possibly damaged,995-Unclassified,3,0.3060118854045868
+Possibly damaged,995-Unclassified,3,0.7226836085319519
+Possibly damaged,995-Unclassified,3,0.7705239653587341
+Possibly damaged,995-Unclassified,3,0.6496061086654663
+Possibly damaged,995-Unclassified,3,0.7163408398628235
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.4707774817943573
+Possibly damaged,995-Unclassified,3,0.4707774817943573
+Possibly damaged,995-Unclassified,3,0.6640386581420898
+Possibly damaged,995-Unclassified,3,0.5847048163414001
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.474282830953598
+Possibly damaged,995-Unclassified,3,0.49009066820144653
+Possibly damaged,995-Unclassified,3,0.4047843813896179
+Possibly damaged,995-Unclassified,3,0.3275022506713867
+Possibly damaged,995-Unclassified,3,0.3275022506713867
+Possibly damaged,995-Unclassified,3,0.3275022506713867
+Possibly damaged,995-Unclassified,3,0.28925782442092896
+Possibly damaged,995-Unclassified,3,0.627519965171814
+Possibly damaged,995-Unclassified,3,0.17036566138267517
+Possibly damaged,995-Unclassified,3,0.6558856964111328
+Possibly damaged,995-Unclassified,3,0.1677669733762741
+Possibly damaged,995-Unclassified,3,0.1677669733762741
+Possibly damaged,995-Unclassified,3,0.1677669733762741
+Possibly damaged,995-Unclassified,3,0.2909761071205139
+Possibly damaged,995-Unclassified,3,0.3723190724849701
+Possibly damaged,995-Unclassified,3,0.4381130039691925
+Possibly damaged,995-Unclassified,3,0.8665065765380859
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.2780393064022064
+Possibly damaged,995-Unclassified,3,0.5720280408859253
+Possibly damaged,995-Unclassified,3,0.5720280408859253
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.3336050808429718
+Possibly damaged,995-Unclassified,3,0.4925101697444916
+Possibly damaged,995-Unclassified,3,0.47213098406791687
+Possibly damaged,995-Unclassified,3,0.47213098406791687
+Possibly damaged,995-Unclassified,3,0.6230969429016113
+Possibly damaged,995-Unclassified,3,0.5666655898094177
+Possibly damaged,995-Unclassified,3,0.18507078289985657
+Possibly damaged,995-Unclassified,3,0.4345752000808716
+Possibly damaged,995-Unclassified,3,0.18507078289985657
+Possibly damaged,995-Unclassified,3,0.4569496810436249
+Possibly damaged,995-Unclassified,3,0.3211498558521271
+Possibly damaged,995-Unclassified,3,0.7140163779258728
+Possibly damaged,995-Unclassified,3,0.547921359539032
+Possibly damaged,995-Unclassified,3,0.5000936985015869
+Possibly damaged,995-Unclassified,3,0.17630760371685028
+Possibly damaged,995-Unclassified,3,0.4677168130874634
+Possibly damaged,995-Unclassified,3,0.6247877478599548
+Possibly damaged,995-Unclassified,3,0.40379685163497925
+Possibly damaged,995-Unclassified,3,0.40379685163497925
+Possibly damaged,995-Unclassified,3,0.3461248278617859
+Possibly damaged,995-Unclassified,3,0.3461248278617859
+Possibly damaged,995-Unclassified,3,0.2990992069244385
+Possibly damaged,995-Unclassified,3,0.3221414089202881
+Possibly damaged,995-Unclassified,3,0.595009446144104
+Possibly damaged,995-Unclassified,3,0.5278476476669312
+Possibly damaged,995-Unclassified,3,0.42566758394241333
+Possibly damaged,995-Unclassified,3,0.43666690587997437
+Possibly damaged,995-Unclassified,3,0.3716464340686798
+Possibly damaged,995-Unclassified,3,0.3716464340686798
+Possibly damaged,995-Unclassified,3,0.3012467324733734
+Possibly damaged,995-Unclassified,3,0.3012467324733734
+Possibly damaged,995-Unclassified,3,0.3749549984931946
+Possibly damaged,995-Unclassified,3,0.27005764842033386
+Possibly damaged,995-Unclassified,3,0.45155245065689087
+Possibly damaged,995-Unclassified,3,0.3591563105583191
+Possibly damaged,995-Unclassified,3,0.2189798355102539
+Possibly damaged,995-Unclassified,3,0.49859708547592163
+Possibly damaged,995-Unclassified,3,0.6648920178413391
+Possibly damaged,995-Unclassified,3,0.5754680037498474
+Possibly damaged,995-Unclassified,3,0.5754680037498474
+Possibly damaged,995-Unclassified,3,0.7042164206504822
+Possibly damaged,995-Unclassified,3,0.3536137342453003
+Possibly damaged,995-Unclassified,3,0.28517621755599976
+Possibly damaged,995-Unclassified,3,0.28517621755599976
+Possibly damaged,995-Unclassified,3,0.28517621755599976
+Possibly damaged,995-Unclassified,3,0.3974955677986145
+Possibly damaged,995-Unclassified,3,0.5808935761451721
+Possibly damaged,995-Unclassified,3,0.3087226152420044
+Possibly damaged,995-Unclassified,3,0.3942267894744873
+Possibly damaged,995-Unclassified,3,0.3974955677986145
+Possibly damaged,995-Unclassified,3,0.3958498537540436
+Possibly damaged,995-Unclassified,3,0.48147743940353394
+Possibly damaged,995-Unclassified,3,0.4257907271385193
+Possibly damaged,995-Unclassified,3,0.7018398642539978
+Possibly damaged,995-Unclassified,3,0.26406240463256836
+Possibly damaged,995-Unclassified,3,0.4257907271385193
+Possibly damaged,995-Unclassified,3,0.4257907271385193
+Possibly damaged,995-Unclassified,3,0.28517621755599976
+Possibly damaged,995-Unclassified,3,0.3536137342453003
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.3459702134132385
+Possibly damaged,995-Unclassified,3,0.3459702134132385
+Possibly damaged,995-Unclassified,3,0.37573903799057007
+Possibly damaged,995-Unclassified,3,0.37573903799057007
+Possibly damaged,995-Unclassified,3,0.31502777338027954
+Possibly damaged,995-Unclassified,3,0.279819130897522
+Possibly damaged,995-Unclassified,3,0.44459593296051025
+Possibly damaged,995-Unclassified,3,0.3636308014392853
+Possibly damaged,995-Unclassified,3,0.7202338576316833
+Possibly damaged,995-Unclassified,3,0.7553448677062988
+Possibly damaged,995-Unclassified,3,0.7022677063941956
+Possibly damaged,995-Unclassified,3,0.8181312084197998
+Possibly damaged,995-Unclassified,3,0.32214295864105225
+Possibly damaged,995-Unclassified,3,0.279819130897522
+Possibly damaged,995-Unclassified,3,0.279819130897522
+Possibly damaged,995-Unclassified,3,0.6235257387161255
+Possibly damaged,995-Unclassified,3,0.6627435088157654
+Possibly damaged,995-Unclassified,3,0.5589560270309448
+Possibly damaged,995-Unclassified,3,0.37435486912727356
+Possibly damaged,995-Unclassified,3,0.5589560270309448
+Possibly damaged,995-Unclassified,3,0.37435486912727356
+Possibly damaged,995-Unclassified,3,0.24077951908111572
+Possibly damaged,995-Unclassified,3,0.6939865350723267
+Possibly damaged,995-Unclassified,3,0.6848307251930237
+Possibly damaged,995-Unclassified,3,0.7022677063941956
+Possibly damaged,995-Unclassified,3,0.6352053284645081
+Possibly damaged,995-Unclassified,3,0.7607523202896118
+Possibly damaged,995-Unclassified,3,0.3108009099960327
+Possibly damaged,995-Unclassified,3,0.3108009099960327
+Possibly damaged,995-Unclassified,3,0.490708589553833
+Possibly damaged,995-Unclassified,3,0.490708589553833
+Possibly damaged,995-Unclassified,3,0.34258127212524414
+Possibly damaged,995-Unclassified,3,0.34258127212524414
+Possibly damaged,995-Unclassified,3,0.34258127212524414
+Possibly damaged,995-Unclassified,3,0.5871952176094055
+Possibly damaged,995-Unclassified,3,0.7639539837837219
+Possibly damaged,995-Unclassified,3,0.3293994069099426
+Possibly damaged,995-Unclassified,3,0.7142069935798645
+Possibly damaged,995-Unclassified,3,0.4748547673225403
+Possibly damaged,995-Unclassified,3,0.33180439472198486
+Possibly damaged,995-Unclassified,3,0.4748547673225403
+Possibly damaged,995-Unclassified,3,0.33180439472198486
+Possibly damaged,995-Unclassified,3,0.6324762105941772
+Possibly damaged,995-Unclassified,3,0.38703498244285583
+Possibly damaged,995-Unclassified,3,0.3997134268283844
+Possibly damaged,995-Unclassified,3,0.47213098406791687
+Possibly damaged,995-Unclassified,3,0.47213098406791687
+Possibly damaged,995-Unclassified,3,0.6230969429016113
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.32236629724502563
+Possibly damaged,995-Unclassified,3,0.7703652381896973
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.46000245213508606
+Possibly damaged,995-Unclassified,3,0.6892879009246826
+Possibly damaged,995-Unclassified,3,0.7061147689819336
+Possibly damaged,995-Unclassified,3,0.6892879009246826
+Possibly damaged,995-Unclassified,3,0.70937579870224
+Possibly damaged,995-Unclassified,3,0.70937579870224
+Possibly damaged,995-Unclassified,3,0.24549920856952667
+Possibly damaged,995-Unclassified,3,0.5995128154754639
+Possibly damaged,995-Unclassified,3,0.7061147689819336
+Possibly damaged,995-Unclassified,3,0.4257907271385193
+Possibly damaged,995-Unclassified,3,0.40000489354133606
+Possibly damaged,995-Unclassified,3,0.4257907271385193
+Possibly damaged,995-Unclassified,3,0.4204539954662323
+Possibly damaged,995-Unclassified,3,0.26406240463256836
+Possibly damaged,995-Unclassified,3,0.639872133731842
+Possibly damaged,995-Unclassified,3,0.6597780585289001
+Possibly damaged,995-Unclassified,3,0.4065018594264984
+Possibly damaged,995-Unclassified,3,0.6597780585289001
+Possibly damaged,995-Unclassified,3,0.6597780585289001
+Possibly damaged,995-Unclassified,3,0.4065018594264984
+Possibly damaged,995-Unclassified,3,0.6597780585289001
+Possibly damaged,995-Unclassified,3,0.4065018594264984
+Possibly damaged,995-Unclassified,3,0.6597780585289001
+Possibly damaged,995-Unclassified,3,0.639872133731842
+Possibly damaged,995-Unclassified,3,0.4065018594264984
+Possibly damaged,995-Unclassified,3,0.639872133731842
+Possibly damaged,995-Unclassified,3,0.5255874395370483
+Possibly damaged,995-Unclassified,3,0.6597780585289001
+Possibly damaged,995-Unclassified,3,0.702404797077179
+Possibly damaged,995-Unclassified,3,0.4065018594264984
+Possibly damaged,995-Unclassified,3,0.5255874395370483
+Possibly damaged,995-Unclassified,3,0.5576587319374084
+Possibly damaged,995-Unclassified,3,0.4065018594264984
+Possibly damaged,995-Unclassified,3,0.4065018594264984
+Possibly damaged,995-Unclassified,3,0.5203068852424622
+Possibly damaged,995-Unclassified,3,0.40000489354133606
+Possibly damaged,995-Unclassified,3,0.5203068852424622
+Possibly damaged,995-Unclassified,3,
+Possibly damaged,995-Unclassified,3,0.4679815173149109
+Possibly damaged,995-Unclassified,4,0.24713599681854248
+Possibly damaged,995-Unclassified,4,0.719385027885437
+Possibly damaged,995-Unclassified,4,0.6135592460632324
+Possibly damaged,995-Unclassified,4,0.6135592460632324
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.8191710710525513
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.8191710710525513
+Possibly damaged,995-Unclassified,4,0.7839318513870239
+Possibly damaged,995-Unclassified,4,0.3908853828907013
+Possibly damaged,995-Unclassified,4,0.2958424985408783
+Possibly damaged,995-Unclassified,4,0.3908853828907013
+Possibly damaged,995-Unclassified,4,0.294334352016449
+Possibly damaged,995-Unclassified,4,0.3459375202655792
+Possibly damaged,995-Unclassified,4,0.6063342094421387
+Possibly damaged,995-Unclassified,4,0.6063342094421387
+Possibly damaged,995-Unclassified,4,0.294334352016449
+Possibly damaged,995-Unclassified,4,0.6175723671913147
+Possibly damaged,995-Unclassified,4,0.294334352016449
+Possibly damaged,995-Unclassified,4,0.6175723671913147
+Possibly damaged,995-Unclassified,4,0.6175723671913147
+Possibly damaged,995-Unclassified,4,0.6032477021217346
+Possibly damaged,995-Unclassified,4,0.3990030884742737
+Possibly damaged,995-Unclassified,4,0.3990030884742737
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.5670973658561707
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.6016457080841064
+Possibly damaged,995-Unclassified,4,0.5205384492874146
+Possibly damaged,995-Unclassified,4,0.5442449450492859
+Possibly damaged,995-Unclassified,4,0.5205384492874146
+Possibly damaged,995-Unclassified,4,0.431679904460907
+Possibly damaged,995-Unclassified,4,0.4663947522640228
+Possibly damaged,995-Unclassified,4,0.36291465163230896
+Possibly damaged,995-Unclassified,4,0.418191134929657
+Possibly damaged,995-Unclassified,4,0.5854608416557312
+Possibly damaged,995-Unclassified,4,0.4476524293422699
+Possibly damaged,995-Unclassified,4,0.5116817951202393
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.4476524293422699
+Possibly damaged,995-Unclassified,4,0.563600480556488
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.31810498237609863
+Possibly damaged,995-Unclassified,4,0.5720280408859253
+Possibly damaged,995-Unclassified,4,0.20262479782104492
+Possibly damaged,995-Unclassified,4,0.41243427991867065
+Possibly damaged,995-Unclassified,4,0.43321648240089417
+Possibly damaged,995-Unclassified,4,0.4108949601650238
+Possibly damaged,995-Unclassified,4,0.5684728026390076
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.3463805615901947
+Possibly damaged,995-Unclassified,4,0.43321648240089417
+Possibly damaged,995-Unclassified,4,0.3595165014266968
+Possibly damaged,995-Unclassified,4,0.605440080165863
+Possibly damaged,995-Unclassified,4,0.5102941393852234
+Possibly damaged,995-Unclassified,4,0.418191134929657
+Possibly damaged,995-Unclassified,4,0.5854608416557312
+Possibly damaged,995-Unclassified,4,0.47885656356811523
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.6097505688667297
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.3786271810531616
+Possibly damaged,995-Unclassified,4,0.6594138145446777
+Possibly damaged,995-Unclassified,4,0.6789557933807373
+Possibly damaged,995-Unclassified,4,0.8140589594841003
+Possibly damaged,995-Unclassified,4,0.3786271810531616
+Possibly damaged,995-Unclassified,4,0.3191644251346588
+Possibly damaged,995-Unclassified,4,0.45384329557418823
+Possibly damaged,995-Unclassified,4,0.5137251615524292
+Possibly damaged,995-Unclassified,4,0.5087175965309143
+Possibly damaged,995-Unclassified,4,0.3324442207813263
+Possibly damaged,995-Unclassified,4,0.3324442207813263
+Possibly damaged,995-Unclassified,4,0.6385627388954163
+Possibly damaged,995-Unclassified,4,0.7995268106460571
+Possibly damaged,995-Unclassified,4,0.6030392050743103
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.6030392050743103
+Possibly damaged,995-Unclassified,4,0.43055447936058044
+Possibly damaged,995-Unclassified,4,0.2841615378856659
+Possibly damaged,995-Unclassified,4,0.4810023903846741
+Possibly damaged,995-Unclassified,4,0.4914388954639435
+Possibly damaged,995-Unclassified,4,0.33337482810020447
+Possibly damaged,995-Unclassified,4,0.361908882856369
+Possibly damaged,995-Unclassified,4,0.47588133811950684
+Possibly damaged,995-Unclassified,4,0.368329793214798
+Possibly damaged,995-Unclassified,4,0.19863422214984894
+Possibly damaged,995-Unclassified,4,0.22086940705776215
+Possibly damaged,995-Unclassified,4,0.4914388954639435
+Possibly damaged,995-Unclassified,4,0.2841615378856659
+Possibly damaged,995-Unclassified,4,0.28792956471443176
+Possibly damaged,995-Unclassified,4,0.6396918296813965
+Possibly damaged,995-Unclassified,4,0.6396918296813965
+Possibly damaged,995-Unclassified,4,0.3682933747768402
+Possibly damaged,995-Unclassified,4,0.3682933747768402
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.5646923184394836
+Possibly damaged,995-Unclassified,4,0.5111867189407349
+Possibly damaged,995-Unclassified,4,0.3044995367527008
+Possibly damaged,995-Unclassified,4,0.3044995367527008
+Possibly damaged,995-Unclassified,4,0.4493272304534912
+Possibly damaged,995-Unclassified,4,0.47301211953163147
+Possibly damaged,995-Unclassified,4,0.17917291820049286
+Possibly damaged,995-Unclassified,4,0.49433067440986633
+Possibly damaged,995-Unclassified,4,0.3933884799480438
+Possibly damaged,995-Unclassified,4,0.49433067440986633
+Possibly damaged,995-Unclassified,4,0.42263495922088623
+Possibly damaged,995-Unclassified,4,0.4412580132484436
+Possibly damaged,995-Unclassified,4,0.4788084030151367
+Possibly damaged,995-Unclassified,4,0.21001248061656952
+Possibly damaged,995-Unclassified,4,0.21001248061656952
+Possibly damaged,995-Unclassified,4,0.4548667371273041
+Possibly damaged,995-Unclassified,4,0.27061527967453003
+Possibly damaged,995-Unclassified,4,0.21001248061656952
+Possibly damaged,995-Unclassified,4,0.27061527967453003
+Possibly damaged,995-Unclassified,4,0.4474562704563141
+Possibly damaged,995-Unclassified,4,0.48178839683532715
+Possibly damaged,995-Unclassified,4,0.31452086567878723
+Possibly damaged,995-Unclassified,4,0.3714170455932617
+Possibly damaged,995-Unclassified,4,0.5529965758323669
+Possibly damaged,995-Unclassified,4,0.46474066376686096
+Possibly damaged,995-Unclassified,4,0.605440080165863
+Possibly damaged,995-Unclassified,4,0.37332040071487427
+Possibly damaged,995-Unclassified,4,0.47574669122695923
+Possibly damaged,995-Unclassified,4,0.37332040071487427
+Possibly damaged,995-Unclassified,4,0.37332040071487427
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.41001537442207336
+Possibly damaged,995-Unclassified,4,0.41001537442207336
+Possibly damaged,995-Unclassified,4,0.41001537442207336
+Possibly damaged,995-Unclassified,4,0.43938907980918884
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.6211866736412048
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.6105164289474487
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.8863610625267029
+Possibly damaged,995-Unclassified,4,0.8918525576591492
+Possibly damaged,995-Unclassified,4,0.7982240319252014
+Possibly damaged,995-Unclassified,4,0.7982240319252014
+Possibly damaged,995-Unclassified,4,0.8194759488105774
+Possibly damaged,995-Unclassified,4,0.8194759488105774
+Possibly damaged,995-Unclassified,4,0.6405730843544006
+Possibly damaged,995-Unclassified,4,0.8480626344680786
+Possibly damaged,995-Unclassified,4,0.8480626344680786
+Possibly damaged,995-Unclassified,4,0.6824954748153687
+Possibly damaged,995-Unclassified,4,0.6947092413902283
+Possibly damaged,995-Unclassified,4,0.6947092413902283
+Possibly damaged,995-Unclassified,4,0.8384358882904053
+Possibly damaged,995-Unclassified,4,0.8384358882904053
+Possibly damaged,995-Unclassified,4,0.8684072494506836
+Possibly damaged,995-Unclassified,4,0.32599973678588867
+Possibly damaged,995-Unclassified,4,0.5621278882026672
+Possibly damaged,995-Unclassified,4,0.35426804423332214
+Possibly damaged,995-Unclassified,4,0.4866539537906647
+Possibly damaged,995-Unclassified,4,0.3101039528846741
+Possibly damaged,995-Unclassified,4,0.3637351989746094
+Possibly damaged,995-Unclassified,4,0.3637351989746094
+Possibly damaged,995-Unclassified,4,0.4211565852165222
+Possibly damaged,995-Unclassified,4,0.32599973678588867
+Possibly damaged,995-Unclassified,4,0.4211565852165222
+Possibly damaged,995-Unclassified,4,0.5490897297859192
+Possibly damaged,995-Unclassified,4,0.3638433814048767
+Possibly damaged,995-Unclassified,4,0.5621278882026672
+Possibly damaged,995-Unclassified,4,0.4134266674518585
+Possibly damaged,995-Unclassified,4,0.530779242515564
+Possibly damaged,995-Unclassified,4,0.3085595667362213
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.47945287823677063
+Possibly damaged,995-Unclassified,4,0.5553774833679199
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.3280671238899231
+Possibly damaged,995-Unclassified,4,0.47945287823677063
+Possibly damaged,995-Unclassified,4,0.6191416382789612
+Possibly damaged,995-Unclassified,4,0.4389723241329193
+Possibly damaged,995-Unclassified,4,0.8538702726364136
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.33031201362609863
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.7109168767929077
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.6493350267410278
+Possibly damaged,995-Unclassified,4,0.5989148020744324
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.6273024678230286
+Possibly damaged,995-Unclassified,4,0.285614937543869
+Possibly damaged,995-Unclassified,4,0.5954439043998718
+Possibly damaged,995-Unclassified,4,0.7558296918869019
+Possibly damaged,995-Unclassified,4,0.6602861285209656
+Possibly damaged,995-Unclassified,4,0.6602861285209656
+Possibly damaged,995-Unclassified,4,0.5204141139984131
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.5325196981430054
+Possibly damaged,995-Unclassified,4,0.5325196981430054
+Possibly damaged,995-Unclassified,4,0.7729028463363647
+Possibly damaged,995-Unclassified,4,0.7729028463363647
+Possibly damaged,995-Unclassified,4,0.7444287538528442
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.31478187441825867
+Possibly damaged,995-Unclassified,4,0.5905056595802307
+Possibly damaged,995-Unclassified,4,0.5905056595802307
+Possibly damaged,995-Unclassified,4,0.5905056595802307
+Possibly damaged,995-Unclassified,4,0.3969513475894928
+Possibly damaged,995-Unclassified,4,0.4610292315483093
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.6520532965660095
+Possibly damaged,995-Unclassified,4,0.7267356514930725
+Possibly damaged,995-Unclassified,4,0.33876416087150574
+Possibly damaged,995-Unclassified,4,0.5174180865287781
+Possibly damaged,995-Unclassified,4,0.47444331645965576
+Possibly damaged,995-Unclassified,4,0.47444331645965576
+Possibly damaged,995-Unclassified,4,0.2550407648086548
+Possibly damaged,995-Unclassified,4,0.2463926523923874
+Possibly damaged,995-Unclassified,4,0.4184110164642334
+Possibly damaged,995-Unclassified,4,0.6893973350524902
+Possibly damaged,995-Unclassified,4,0.7012667655944824
+Possibly damaged,995-Unclassified,4,0.6566726565361023
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.701386034488678
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.6501686573028564
+Possibly damaged,995-Unclassified,4,0.6566726565361023
+Possibly damaged,995-Unclassified,4,0.8065959215164185
+Possibly damaged,995-Unclassified,4,0.6496061086654663
+Possibly damaged,995-Unclassified,4,0.6496061086654663
+Possibly damaged,995-Unclassified,4,0.6496061086654663
+Possibly damaged,995-Unclassified,4,0.6840918064117432
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.48395463824272156
+Possibly damaged,995-Unclassified,4,0.5426805019378662
+Possibly damaged,995-Unclassified,4,0.4609036147594452
+Possibly damaged,995-Unclassified,4,0.3216683268547058
+Possibly damaged,995-Unclassified,4,0.40252554416656494
+Possibly damaged,995-Unclassified,4,0.43533989787101746
+Possibly damaged,995-Unclassified,4,0.28655123710632324
+Possibly damaged,995-Unclassified,4,0.40252554416656494
+Possibly damaged,995-Unclassified,4,0.17279940843582153
+Possibly damaged,995-Unclassified,4,0.43533989787101746
+Possibly damaged,995-Unclassified,4,0.3823813796043396
+Possibly damaged,995-Unclassified,4,0.21931922435760498
+Possibly damaged,995-Unclassified,4,0.2759096324443817
+Possibly damaged,995-Unclassified,4,0.3587098717689514
+Possibly damaged,995-Unclassified,4,0.5601260662078857
+Possibly damaged,995-Unclassified,4,0.4098733365535736
+Possibly damaged,995-Unclassified,4,0.5032886266708374
+Possibly damaged,995-Unclassified,4,0.5601260662078857
+Possibly damaged,995-Unclassified,4,0.4434106945991516
+Possibly damaged,995-Unclassified,4,0.4574998915195465
+Possibly damaged,995-Unclassified,4,0.355800986289978
+Possibly damaged,995-Unclassified,4,0.4118424952030182
+Possibly damaged,995-Unclassified,4,0.4118424952030182
+Possibly damaged,995-Unclassified,4,0.25021636486053467
+Possibly damaged,995-Unclassified,4,0.355800986289978
+Possibly damaged,995-Unclassified,4,0.6024882197380066
+Possibly damaged,995-Unclassified,4,0.378203809261322
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.6017797589302063
+Possibly damaged,995-Unclassified,4,0.6017797589302063
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.41628482937812805
+Possibly damaged,995-Unclassified,4,0.37799596786499023
+Possibly damaged,995-Unclassified,4,0.46096891164779663
+Possibly damaged,995-Unclassified,4,0.431679904460907
+Possibly damaged,995-Unclassified,4,0.6206702589988708
+Possibly damaged,995-Unclassified,4,0.36073872447013855
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.5221066474914551
+Possibly damaged,995-Unclassified,4,0.5221066474914551
+Possibly damaged,995-Unclassified,4,0.7122913002967834
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.8798109292984009
+Possibly damaged,995-Unclassified,4,0.6051861047744751
+Possibly damaged,995-Unclassified,4,0.5747706890106201
+Possibly damaged,995-Unclassified,4,0.666519045829773
+Possibly damaged,995-Unclassified,4,0.6906044483184814
+Possibly damaged,995-Unclassified,4,0.5923126935958862
+Possibly damaged,995-Unclassified,4,0.6966590285301208
+Possibly damaged,995-Unclassified,4,0.555957019329071
+Possibly damaged,995-Unclassified,4,0.31732791662216187
+Possibly damaged,995-Unclassified,4,0.643519937992096
+Possibly damaged,995-Unclassified,4,0.555957019329071
+Possibly damaged,995-Unclassified,4,0.31732791662216187
+Possibly damaged,995-Unclassified,4,0.643519937992096
+Possibly damaged,995-Unclassified,4,0.643519937992096
+Possibly damaged,995-Unclassified,4,0.555957019329071
+Possibly damaged,995-Unclassified,4,0.5896982550621033
+Possibly damaged,995-Unclassified,4,0.48792481422424316
+Possibly damaged,995-Unclassified,4,0.64585280418396
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.6906044483184814
+Possibly damaged,995-Unclassified,4,0.5923126935958862
+Possibly damaged,995-Unclassified,4,0.6906044483184814
+Possibly damaged,995-Unclassified,4,0.6703784465789795
+Possibly damaged,995-Unclassified,4,0.49324843287467957
+Possibly damaged,995-Unclassified,4,0.5614989995956421
+Possibly damaged,995-Unclassified,4,0.5614989995956421
+Possibly damaged,995-Unclassified,4,0.64585280418396
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.42570236325263977
+Possibly damaged,995-Unclassified,4,0.48792481422424316
+Possibly damaged,995-Unclassified,4,0.7371617555618286
+Possibly damaged,995-Unclassified,4,0.5443874597549438
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.5882109999656677
+Possibly damaged,995-Unclassified,4,0.6093767285346985
+Possibly damaged,995-Unclassified,4,0.6621869206428528
+Possibly damaged,995-Unclassified,4,0.7223349213600159
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.6093206405639648
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.39016538858413696
+Possibly damaged,995-Unclassified,4,0.604340136051178
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.4461826980113983
+Possibly damaged,995-Unclassified,4,0.31810498237609863
+Possibly damaged,995-Unclassified,4,0.31810498237609863
+Possibly damaged,995-Unclassified,4,0.31810498237609863
+Possibly damaged,995-Unclassified,4,0.5166047215461731
+Possibly damaged,995-Unclassified,4,0.5339232087135315
+Possibly damaged,995-Unclassified,4,0.4065488278865814
+Possibly damaged,995-Unclassified,4,0.493770956993103
+Possibly damaged,995-Unclassified,4,0.493770956993103
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.4412580132484436
+Possibly damaged,995-Unclassified,4,0.5436245203018188
+Possibly damaged,995-Unclassified,4,0.2686839699745178
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.2135298103094101
+Possibly damaged,995-Unclassified,4,0.23414483666419983
+Possibly damaged,995-Unclassified,4,0.2135298103094101
+Possibly damaged,995-Unclassified,4,0.4792144000530243
+Possibly damaged,995-Unclassified,4,0.5443907380104065
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.42183011770248413
+Possibly damaged,995-Unclassified,4,0.42183011770248413
+Possibly damaged,995-Unclassified,4,0.45212841033935547
+Possibly damaged,995-Unclassified,4,0.33268260955810547
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.4461826980113983
+Possibly damaged,995-Unclassified,4,0.23908233642578125
+Possibly damaged,995-Unclassified,4,0.23908233642578125
+Possibly damaged,995-Unclassified,4,0.23908233642578125
+Possibly damaged,995-Unclassified,4,0.2408394068479538
+Possibly damaged,995-Unclassified,4,0.5001620054244995
+Possibly damaged,995-Unclassified,4,0.5913346409797668
+Possibly damaged,995-Unclassified,4,0.7223349213600159
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.48571455478668213
+Possibly damaged,995-Unclassified,4,0.7804888486862183
+Possibly damaged,995-Unclassified,4,0.7327239513397217
+Possibly damaged,995-Unclassified,4,0.8603866696357727
+Possibly damaged,995-Unclassified,4,0.8603866696357727
+Possibly damaged,995-Unclassified,4,0.4574041962623596
+Possibly damaged,995-Unclassified,4,0.49730172753334045
+Possibly damaged,995-Unclassified,4,0.4574041962623596
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.4726300835609436
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.4533824324607849
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.6008195877075195
+Possibly damaged,995-Unclassified,4,0.2818751335144043
+Possibly damaged,995-Unclassified,4,0.41031622886657715
+Possibly damaged,995-Unclassified,4,0.6008195877075195
+Possibly damaged,995-Unclassified,4,0.78243088722229
+Possibly damaged,995-Unclassified,4,0.78243088722229
+Possibly damaged,995-Unclassified,4,0.5355979204177856
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.5482421517372131
+Possibly damaged,995-Unclassified,4,0.5482421517372131
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.638695478439331
+Possibly damaged,995-Unclassified,4,0.6327992677688599
+Possibly damaged,995-Unclassified,4,0.7549500465393066
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,0.6271195411682129
+Possibly damaged,995-Unclassified,4,0.6590734124183655
+Possibly damaged,995-Unclassified,4,0.7251853346824646
+Possibly damaged,995-Unclassified,4,0.7251853346824646
+Possibly damaged,995-Unclassified,4,0.5670095086097717
+Possibly damaged,995-Unclassified,4,0.5670095086097717
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,4,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.3063422441482544
+Possibly damaged,995-Unclassified,5,0.5336054563522339
+Possibly damaged,995-Unclassified,5,0.31879568099975586
+Possibly damaged,995-Unclassified,5,0.5568294525146484
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.48966893553733826
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.49915823340415955
+Possibly damaged,995-Unclassified,5,0.5335985422134399
+Possibly damaged,995-Unclassified,5,0.527311384677887
+Possibly damaged,995-Unclassified,5,0.5607936978340149
+Possibly damaged,995-Unclassified,5,0.19178123772144318
+Possibly damaged,995-Unclassified,5,0.4217563569545746
+Possibly damaged,995-Unclassified,5,0.5717124342918396
+Possibly damaged,995-Unclassified,5,0.5563436150550842
+Possibly damaged,995-Unclassified,5,0.254251629114151
+Possibly damaged,995-Unclassified,5,0.6459136009216309
+Possibly damaged,995-Unclassified,5,0.40223851799964905
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.3011108636856079
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.3011108636856079
+Possibly damaged,995-Unclassified,5,0.3011108636856079
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.5544834733009338
+Possibly damaged,995-Unclassified,5,0.37154054641723633
+Possibly damaged,995-Unclassified,5,0.5942954421043396
+Possibly damaged,995-Unclassified,5,0.5693046450614929
+Possibly damaged,995-Unclassified,5,0.36814001202583313
+Possibly damaged,995-Unclassified,5,0.7181646227836609
+Possibly damaged,995-Unclassified,5,0.7181646227836609
+Possibly damaged,995-Unclassified,5,0.7181646227836609
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.4612146317958832
+Possibly damaged,995-Unclassified,5,0.5427286624908447
+Possibly damaged,995-Unclassified,5,0.33178168535232544
+Possibly damaged,995-Unclassified,5,0.40723907947540283
+Possibly damaged,995-Unclassified,5,0.7519509792327881
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.7603203058242798
+Possibly damaged,995-Unclassified,5,0.5766156911849976
+Possibly damaged,995-Unclassified,5,0.43238404393196106
+Possibly damaged,995-Unclassified,5,0.5103076696395874
+Possibly damaged,995-Unclassified,5,0.5103076696395874
+Possibly damaged,995-Unclassified,5,0.8385108709335327
+Possibly damaged,995-Unclassified,5,0.7888572216033936
+Possibly damaged,995-Unclassified,5,0.5207681059837341
+Possibly damaged,995-Unclassified,5,0.7237330675125122
+Possibly damaged,995-Unclassified,5,0.6634446978569031
+Possibly damaged,995-Unclassified,5,0.2488347440958023
+Possibly damaged,995-Unclassified,5,0.6851227879524231
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.4523399770259857
+Possibly damaged,995-Unclassified,5,0.3829588294029236
+Possibly damaged,995-Unclassified,5,0.7465794086456299
+Possibly damaged,995-Unclassified,5,0.4338957667350769
+Possibly damaged,995-Unclassified,5,0.4338957667350769
+Possibly damaged,995-Unclassified,5,0.4338957667350769
+Possibly damaged,995-Unclassified,5,0.4338957667350769
+Possibly damaged,995-Unclassified,5,0.35023435950279236
+Possibly damaged,995-Unclassified,5,0.35023435950279236
+Possibly damaged,995-Unclassified,5,0.4337436258792877
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.4523399770259857
+Possibly damaged,995-Unclassified,5,0.6434493660926819
+Possibly damaged,995-Unclassified,5,0.6434493660926819
+Possibly damaged,995-Unclassified,5,0.6530192494392395
+Possibly damaged,995-Unclassified,5,0.5494531989097595
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.6566143035888672
+Possibly damaged,995-Unclassified,5,0.4490061104297638
+Possibly damaged,995-Unclassified,5,0.49709954857826233
+Possibly damaged,995-Unclassified,5,0.24493390321731567
+Possibly damaged,995-Unclassified,5,0.37972477078437805
+Possibly damaged,995-Unclassified,5,0.7302458882331848
+Possibly damaged,995-Unclassified,5,0.6771419644355774
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.6467187404632568
+Possibly damaged,995-Unclassified,5,0.7616420984268188
+Possibly damaged,995-Unclassified,5,0.38413625955581665
+Possibly damaged,995-Unclassified,5,0.7053000330924988
+Possibly damaged,995-Unclassified,5,0.7581177353858948
+Possibly damaged,995-Unclassified,5,0.38413625955581665
+Possibly damaged,995-Unclassified,5,0.34199967980384827
+Possibly damaged,995-Unclassified,5,0.385563462972641
+Possibly damaged,995-Unclassified,5,0.385563462972641
+Possibly damaged,995-Unclassified,5,0.7400445938110352
+Possibly damaged,995-Unclassified,5,0.6927973628044128
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.7400445938110352
+Possibly damaged,995-Unclassified,5,0.357393354177475
+Possibly damaged,995-Unclassified,5,0.36463287472724915
+Possibly damaged,995-Unclassified,5,0.7647244930267334
+Possibly damaged,995-Unclassified,5,0.7647244930267334
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.3449755907058716
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.5636242032051086
+Possibly damaged,995-Unclassified,5,0.601280689239502
+Possibly damaged,995-Unclassified,5,0.601280689239502
+Possibly damaged,995-Unclassified,5,0.48268815875053406
+Possibly damaged,995-Unclassified,5,0.5580441355705261
+Possibly damaged,995-Unclassified,5,0.5876055359840393
+Possibly damaged,995-Unclassified,5,0.2445264458656311
+Possibly damaged,995-Unclassified,5,0.5150441527366638
+Possibly damaged,995-Unclassified,5,0.5189892649650574
+Possibly damaged,995-Unclassified,5,0.2445264458656311
+Possibly damaged,995-Unclassified,5,0.42407429218292236
+Possibly damaged,995-Unclassified,5,0.5150441527366638
+Possibly damaged,995-Unclassified,5,0.5189892649650574
+Possibly damaged,995-Unclassified,5,0.5028671026229858
+Possibly damaged,995-Unclassified,5,0.8447697758674622
+Possibly damaged,995-Unclassified,5,0.29167112708091736
+Possibly damaged,995-Unclassified,5,0.5275284647941589
+Possibly damaged,995-Unclassified,5,0.5275284647941589
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.5819808840751648
+Possibly damaged,995-Unclassified,5,0.4648016691207886
+Possibly damaged,995-Unclassified,5,0.5756527781486511
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.45771023631095886
+Possibly damaged,995-Unclassified,5,0.44464820623397827
+Possibly damaged,995-Unclassified,5,0.4353794455528259
+Possibly damaged,995-Unclassified,5,0.3529185652732849
+Possibly damaged,995-Unclassified,5,0.3529185652732849
+Possibly damaged,995-Unclassified,5,0.8012581467628479
+Possibly damaged,995-Unclassified,5,0.527184247970581
+Possibly damaged,995-Unclassified,5,0.2181251049041748
+Possibly damaged,995-Unclassified,5,0.2181251049041748
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.564160943031311
+Possibly damaged,995-Unclassified,5,0.564160943031311
+Possibly damaged,995-Unclassified,5,0.44412899017333984
+Possibly damaged,995-Unclassified,5,0.44412899017333984
+Possibly damaged,995-Unclassified,5,0.4166908860206604
+Possibly damaged,995-Unclassified,5,0.41755494475364685
+Possibly damaged,995-Unclassified,5,0.2343577891588211
+Possibly damaged,995-Unclassified,5,0.21952548623085022
+Possibly damaged,995-Unclassified,5,0.21952548623085022
+Possibly damaged,995-Unclassified,5,0.33345794677734375
+Possibly damaged,995-Unclassified,5,0.7972012758255005
+Possibly damaged,995-Unclassified,5,0.5850709080696106
+Possibly damaged,995-Unclassified,5,0.5386151075363159
+Possibly damaged,995-Unclassified,5,0.355495423078537
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.5436772704124451
+Possibly damaged,995-Unclassified,5,0.5347301959991455
+Possibly damaged,995-Unclassified,5,0.30750998854637146
+Possibly damaged,995-Unclassified,5,0.355495423078537
+Possibly damaged,995-Unclassified,5,0.5436772704124451
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.2904524505138397
+Possibly damaged,995-Unclassified,5,0.41876453161239624
+Possibly damaged,995-Unclassified,5,0.3917471170425415
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.4282619059085846
+Possibly damaged,995-Unclassified,5,0.4742089509963989
+Possibly damaged,995-Unclassified,5,0.28633594512939453
+Possibly damaged,995-Unclassified,5,0.45439615845680237
+Possibly damaged,995-Unclassified,5,0.3662400245666504
+Possibly damaged,995-Unclassified,5,0.32696518301963806
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.3011166453361511
+Possibly damaged,995-Unclassified,5,0.35798048973083496
+Possibly damaged,995-Unclassified,5,0.47160932421684265
+Possibly damaged,995-Unclassified,5,0.665534257888794
+Possibly damaged,995-Unclassified,5,0.665534257888794
+Possibly damaged,995-Unclassified,5,0.3537590503692627
+Possibly damaged,995-Unclassified,5,0.7137746214866638
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.8476371765136719
+Possibly damaged,995-Unclassified,5,0.6857154965400696
+Possibly damaged,995-Unclassified,5,0.8071044087409973
+Possibly damaged,995-Unclassified,5,0.8240607976913452
+Possibly damaged,995-Unclassified,5,0.4203072786331177
+Possibly damaged,995-Unclassified,5,0.24879096448421478
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.7999364733695984
+Possibly damaged,995-Unclassified,5,0.7314977049827576
+Possibly damaged,995-Unclassified,5,0.6082650423049927
+Possibly damaged,995-Unclassified,5,0.7617064714431763
+Possibly damaged,995-Unclassified,5,0.5864439606666565
+Possibly damaged,995-Unclassified,5,0.6059479713439941
+Possibly damaged,995-Unclassified,5,0.6789035201072693
+Possibly damaged,995-Unclassified,5,0.6952787637710571
+Possibly damaged,995-Unclassified,5,0.7325646877288818
+Possibly damaged,995-Unclassified,5,0.518339216709137
+Possibly damaged,995-Unclassified,5,0.8119123578071594
+Possibly damaged,995-Unclassified,5,0.5022338628768921
+Possibly damaged,995-Unclassified,5,0.711938738822937
+Possibly damaged,995-Unclassified,5,0.754657506942749
+Possibly damaged,995-Unclassified,5,0.8607369065284729
+Possibly damaged,995-Unclassified,5,0.8123559355735779
+Possibly damaged,995-Unclassified,5,0.9063845276832581
+Possibly damaged,995-Unclassified,5,0.776695966720581
+Possibly damaged,995-Unclassified,5,0.7738317847251892
+Possibly damaged,995-Unclassified,5,0.8007968068122864
+Possibly damaged,995-Unclassified,5,0.8681157231330872
+Possibly damaged,995-Unclassified,5,0.8445600867271423
+Possibly damaged,995-Unclassified,5,0.849995493888855
+Possibly damaged,995-Unclassified,5,0.8390273451805115
+Possibly damaged,995-Unclassified,5,0.7940334677696228
+Possibly damaged,995-Unclassified,5,0.8122817873954773
+Possibly damaged,995-Unclassified,5,0.864539384841919
+Possibly damaged,995-Unclassified,5,0.8645806908607483
+Possibly damaged,995-Unclassified,5,0.864539384841919
+Possibly damaged,995-Unclassified,5,0.8539586663246155
+Possibly damaged,995-Unclassified,5,0.7884869575500488
+Possibly damaged,995-Unclassified,5,0.6801720857620239
+Possibly damaged,995-Unclassified,5,0.7581884860992432
+Possibly damaged,995-Unclassified,5,0.4522213637828827
+Possibly damaged,995-Unclassified,5,0.4522213637828827
+Possibly damaged,995-Unclassified,5,0.5779961347579956
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.8221705555915833
+Possibly damaged,995-Unclassified,5,0.8352029919624329
+Possibly damaged,995-Unclassified,5,0.671276867389679
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.4550570845603943
+Possibly damaged,995-Unclassified,5,0.1880565583705902
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.48786091804504395
+Possibly damaged,995-Unclassified,5,0.48786091804504395
+Possibly damaged,995-Unclassified,5,0.36262455582618713
+Possibly damaged,995-Unclassified,5,0.36262455582618713
+Possibly damaged,995-Unclassified,5,0.6295848488807678
+Possibly damaged,995-Unclassified,5,0.6295848488807678
+Possibly damaged,995-Unclassified,5,0.3199915885925293
+Possibly damaged,995-Unclassified,5,0.24764277040958405
+Possibly damaged,995-Unclassified,5,0.6214777827262878
+Possibly damaged,995-Unclassified,5,0.47789129614830017
+Possibly damaged,995-Unclassified,5,0.47789129614830017
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.7338032126426697
+Possibly damaged,995-Unclassified,5,0.20736275613307953
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.20736275613307953
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.4388555586338043
+Possibly damaged,995-Unclassified,5,0.4555281102657318
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.691952645778656
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.7796376347541809
+Possibly damaged,995-Unclassified,5,0.8147236108779907
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.5680760741233826
+Possibly damaged,995-Unclassified,5,0.6098441481590271
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.6038473844528198
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.6121530532836914
+Possibly damaged,995-Unclassified,5,0.42504414916038513
+Possibly damaged,995-Unclassified,5,0.42504414916038513
+Possibly damaged,995-Unclassified,5,0.5697723031044006
+Possibly damaged,995-Unclassified,5,0.48525622487068176
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.48525622487068176
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.36935076117515564
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.44308146834373474
+Possibly damaged,995-Unclassified,5,0.32443490624427795
+Possibly damaged,995-Unclassified,5,0.5526025295257568
+Possibly damaged,995-Unclassified,5,0.6198222041130066
+Possibly damaged,995-Unclassified,5,0.41667604446411133
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,0.47436264157295227
+Possibly damaged,995-Unclassified,5,
+Possibly damaged,995-Unclassified,5,

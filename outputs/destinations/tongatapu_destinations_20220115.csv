@@ -1,0 +1,364 @@
+dest_id,osm_id,dest_type,name,lon,lat,src,tier
+D001,way/319055128,hospital,Mu'a Hospital,-175.1229596,-21.1849805,health_community,1
+D002,way/300336346,hospital,Vainī Hosptial,-175.1824585,-21.1917804,health_community,1
+D003,way/307252509,hospital,Vaiola Hospital,-175.2194444,-21.1548051,health_community,1
+D004,node/3232676727,clinic,,-175.3014975,-21.1359367,health_community,2
+D005,way/308004135,clinic,Fasi Clinic,-175.1919014,-21.1390664,health_community,2
+D006,way/316636808,clinic,Kolomotu'a District Health Centre,-175.2122292,-21.1266751,health_community,2
+D007,way/225155546,clinic,Senita ki he Mo'ui 'a e Kakai,-175.3049392,-21.167948,health_community,2
+D008,way/317154090,clinic,Senita ki he Mo'ui 'a e Kakai,-175.3392417,-21.1017873,health_community,2
+D009,way/318779891,clinic,Senita ki he Mo'ui 'a e Kakai,-175.1414258,-21.2627298,health_community,2
+D010,way/338727357,clinic,Susan China Clinic,-175.202517,-21.1322535,health_community,2
+D011,node/3123454192,clinic,Village Mission Doctor and Pharmacy,-175.203782,-21.1394404,health_community,2
+D012,way/228245982,school,,-175.1173842,-21.1376488,schools,2
+D013,way/228246035,school,,-175.1669969,-21.1794468,schools,2
+D014,way/307141533,school,,-175.2777919,-21.1348592,schools,2
+D015,way/314833599,school,,-175.1549826,-21.1988523,schools,2
+D016,way/314836901,school,,-175.1797618,-21.1675547,schools,2
+D017,way/315070432,school,,-175.1111397,-21.1640874,schools,2
+D018,way/317027401,school,,-175.1724145,-21.1799998,schools,2
+D019,way/317881012,school,,-175.1271248,-21.1504126,schools,2
+D020,way/318032153,school,,-175.1202857,-21.1393957,schools,2
+D021,way/318036074,school,,-175.1044332,-21.1241096,schools,2
+D022,way/318159783,school,,-175.0541117,-21.1331681,schools,2
+D023,way/318694630,school,,-175.1081476,-21.2094448,schools,2
+D024,way/318694631,school,,-175.1106773,-21.2132754,schools,2
+D025,way/319053609,school,,-175.1326517,-21.1927616,schools,2
+D026,way/319072974,school,,-175.109646,-21.1833938,schools,2
+D027,way/319505451,school,,-175.2380892,-21.1755243,schools,2
+D028,way/319826436,school,,-175.240493,-21.1769013,schools,2
+D029,way/319980464,school,,-175.2819621,-21.1835292,schools,2
+D030,way/321742806,school,,-175.1858607,-21.1517279,schools,2
+D031,way/358097617,school,,-175.2711154,-21.1589413,schools,2
+D032,way/358478570,school,,-175.3335972,-21.1419627,schools,2
+D033,way/307240181,school,'Ahopanilolo Institute,-175.1821585,-21.141525,schools,2
+D034,way/307224034,school,'Apifo'ou College,-175.1781022,-21.1435246,schools,2
+D035,way/307130808,school,'Atenisi Institute,-175.2129378,-21.1325938,schools,2
+D036,node/4814469025,school,Assembly of God Bible College Office,-175.2705219,-21.1342901,schools,2
+D037,way/362218590,school,FWC Nasaleti Primary School,-175.3390775,-21.0987456,schools,2
+D038,way/307401362,school,GPS 'Atele,-175.2244265,-21.1816181,schools,2
+D039,way/319935898,school,GPS 'Utulau,-175.2703687,-21.1883048,schools,2
+D040,way/307249629,school,GPS Fanga,-175.2146108,-21.1454827,schools,2
+D041,way/307224018,school,GPS Fasi,-175.1914957,-21.1390131,schools,2
+D042,way/314956476,school,GPS Fua'amotu,-175.1386672,-21.2566972,schools,2
+D043,way/318161670,school,GPS Ha'amonga,-175.0488361,-21.1370352,schools,2
+D044,way/314960227,school,GPS Ha'asini,-175.1107971,-21.244193,schools,2
+D045,way/321932250,school,GPS Hala 'o Vave,-175.2204392,-21.1335154,schools,2
+D046,way/323778299,school,GPS Haveluloto,-175.223998,-21.1525649,schools,2
+D047,way/307141622,school,GPS Hofoa,-175.2274734,-21.1297596,schools,2
+D048,way/314965598,school,GPS Holonga,-175.1432712,-21.195695,schools,2
+D049,way/357403147,school,GPS Houma,-175.3054907,-21.1670394,schools,2
+D050,way/332836904,school,GPS Kanokupolu,-175.3357807,-21.0785559,schools,2
+D051,way/307141620,school,GPS Kolomotu'a,-175.2125759,-21.1268784,schools,2
+D052,node/3456887937,school,GPS Kolonga,-175.0734201,-21.1305527,schools,2
+D053,way/317159119,school,GPS Kolovai,-175.3411926,-21.098477,schools,2
+D054,way/307249676,school,GPS Longolongo,-175.2132643,-21.1392426,schools,2
+D055,way/307224026,school,GPS Ma'ufanga,-175.1843605,-21.1441153,schools,2
+D056,way/319072976,school,GPS Mu'a,-175.1224795,-21.180742,schools,2
+D057,relation/5702187,school,GPS Nakolo,-175.1215932,-21.2638349,schools,2
+D058,way/307224011,school,GPS Ngele'ia,-175.1972647,-21.1451201,schools,2
+D059,way/303116527,school,GPS Nuku'alofa,-175.2046659,-21.1393677,schools,2
+D060,way/314957824,school,GPS Pelehake,-175.1445716,-21.2111659,schools,2
+D061,way/312740676,school,GPS Popua,-175.1628089,-21.1494262,schools,2
+D062,way/356715687,school,GPS Te'ekiu,-175.3148488,-21.1294587,schools,2
+D063,way/314812487,school,GPS Vainī,-175.1764646,-21.1909559,schools,2
+D064,way/357025236,school,GPS Vaotu'u,-175.310366,-21.1602782,schools,2
+D065,way/375753276,school,GPS Veitongo,-175.2111856,-21.1863418,schools,2
+D066,way/307249624,school,Havelu Middle School,-175.2123459,-21.1491201,schools,2
+D067,way/303116532,school,Hilliard Memorial School,-175.2050845,-21.1414898,schools,2
+D068,way/357403144,school,Houma Middle School,-175.3040323,-21.1656232,schools,2
+D069,way/303116523,school,Kolisi Kuini Sālōte,-175.2060394,-21.1353937,schools,2
+D070,way/303116525,school,Kolisi Kuini Sālōte,-175.206013,-21.1373863,schools,2
+D071,way/307249685,school,Lavengamalie College,-175.2242558,-21.1591118,schools,2
+D072,relation/5335917,school,Liahona High School,-175.2703868,-21.1550886,schools,2
+D073,way/303116524,school,Ma'amaloa Primary School,-175.2051614,-21.1348157,schools,2
+D074,way/303116531,school,Ma'amaloa Side School,-175.2142101,-21.1433014,schools,2
+D075,way/317893864,school,Mo'unga 'Olive Middle School,-175.0642916,-21.1281906,schools,2
+D076,way/321737746,school,Mountford Technical Institute,-175.1661009,-21.1470915,schools,2
+D077,way/307240756,school,Ocean of Light,-175.2306846,-21.1391357,schools,2
+D078,relation/4232230,school,SDA College Beulah,-175.1659285,-21.2002628,schools,2
+D079,way/303116530,school,St Andrews College,-175.2090821,-21.1425462,schools,2
+D080,way/307224033,school,St Josephs Business School,-175.1927033,-21.1416244,schools,2
+D081,way/307249609,school,Tailulu College,-175.2180421,-21.1531251,schools,2
+D082,way/319072977,school,Taku'ilau High School,-175.1117984,-21.1840316,schools,2
+D083,relation/5274829,school,Tonga College 'Atele,-175.2264387,-21.1836639,schools,2
+D084,way/303116526,school,Tonga High School,-175.2047778,-21.1380551,schools,2
+D085,relation/4258493,school,Tonga Institute of Higher Education,-175.2056606,-21.1447902,schools,2
+D086,way/314378660,school,Tonga Maritime Polytechnical Institute,-175.1790757,-21.1563803,schools,2
+D087,way/303116529,school,Tonga Side School,-175.207071,-21.1390275,schools,2
+D088,way/316336010,school,Tonga Side School,-175.1974227,-21.144666,schools,2
+D089,relation/5213707,school,Tupou College Toloa,-175.1593174,-21.2233237,schools,2
+D090,way/307128651,school,Tupou High,-175.3024823,-21.1349801,schools,2
+D091,way/307241929,school,Tupou High School,-175.2159217,-21.1451908,schools,2
+D092,way/319072972,school,Tupou High School,-175.1192688,-21.1834869,schools,2
+D093,way/377398477,school,Vaini Middle School,-175.1731678,-21.1973432,schools,2
+D094,relation/8019114,community_centre,,-175.3395738,-21.1050828,health_community,3
+D095,way/314957038,community_centre,,-175.1372529,-21.2645663,health_community,3
+D096,way/318753651,community_centre,,-175.1114121,-21.2496144,health_community,3
+D097,way/319980532,community_centre,,-175.2841861,-21.1827198,health_community,3
+D098,way/345653449,community_centre,,-175.1968059,-21.1491701,health_community,3
+D099,node/3232906825,community_centre,,-175.2939297,-21.1324831,health_community,3
+D100,node/3244061706,community_centre,,-175.1073445,-21.1246575,health_community,3
+D101,way/321784475,community_centre,'Ofisi Vahenga Tongatapu,-175.2271439,-21.1300884,health_community,3
+D102,way/225155405,community_centre,Fa Afuhui 'e he Ngalu Hall,-175.3014119,-21.1706657,health_community,3
+D103,way/319936033,community_centre,Fa'unga 'o e Komunio Hall,-175.2739177,-21.1874182,health_community,3
+D104,way/318687823,community_centre,Falefaiva Finefeuiaki,-175.0697617,-21.127349,health_community,3
+D105,way/319356612,community_centre,Fr Mateo Lui Hall,-175.2123718,-21.1846601,health_community,3
+D106,way/339114653,community_centre,Holo Papai,-175.2065401,-21.1327835,health_community,3
+D107,node/3232677300,community_centre,Holo Siafu,-175.2918647,-21.1339035,health_community,3
+D108,way/321445035,community_centre,Kalapu Sikolasipi Makamaile Halatukutonga,-175.1577369,-21.1403202,health_community,3
+D109,way/338584639,community_centre,Kalofiama 'o Epworth,-175.2025115,-21.1340462,health_community,3
+D110,way/318697031,community_centre,Langi Havea Hall,-175.107501,-21.2349148,health_community,3
+D111,way/319501852,community_centre,Matapa ko Nakau,-175.2344703,-21.1698259,health_community,3
+D112,way/318694715,community_centre,Mo'unga Heamoni Hall,-175.1101413,-21.2120844,health_community,3
+D113,way/317043841,community_centre,Mo'unga Saione Hall,-175.3066829,-21.1305515,health_community,3
+D114,way/225155291,community_centre,Rasta Hall,-175.3042066,-21.1694137,health_community,3
+D115,way/319224751,community_centre,Siupeli Koula Hall,-175.1776969,-21.1943283,health_community,3
+D116,way/319343800,community_centre,Te'efohe,-175.1781262,-21.1935534,health_community,3
+D117,way/318687911,community_centre,Tuaikaepau,-175.0742262,-21.1267001,health_community,3
+D118,way/318697096,community_centre,Tukumo'ui 'Osi Senituli 20 Hall,-175.1079754,-21.23751,health_community,3
+D119,way/317043700,community_centre,Tuʻivakanō Poutele Hall,-175.3007453,-21.1321148,health_community,3
+D120,relation/2800454,place_of_worship,,-175.1915322,-21.149715,worship,3
+D121,relation/4264430,place_of_worship,,-175.2119844,-21.1489319,worship,3
+D122,relation/4744224,place_of_worship,,-175.196186,-21.1380015,worship,3
+D123,relation/5327068,place_of_worship,,-175.312457,-21.1427724,worship,3
+D124,relation/8023944,place_of_worship,,-175.1013817,-21.1225365,worship,3
+D125,way/208261950,place_of_worship,,-175.1063621,-21.2069311,worship,3
+D126,way/225155294,place_of_worship,,-175.3047299,-21.1687363,worship,3
+D127,way/225155403,place_of_worship,,-175.3014616,-21.1701154,worship,3
+D128,way/225155468,place_of_worship,,-175.3050142,-21.1699289,worship,3
+D129,way/227213680,place_of_worship,,-175.2200267,-21.1561051,worship,3
+D130,way/313663896,place_of_worship,,-175.2752359,-21.1624267,worship,3
+D131,way/314957828,place_of_worship,,-175.1367198,-21.2170336,worship,3
+D132,way/316165088,place_of_worship,,-175.1737359,-21.142354,worship,3
+D133,way/316324072,place_of_worship,,-175.1846516,-21.1419529,worship,3
+D134,way/316324074,place_of_worship,,-175.1864344,-21.1400838,worship,3
+D135,way/316336273,place_of_worship,,-175.190652,-21.1438039,worship,3
+D136,way/317043484,place_of_worship,,-175.3008572,-21.1327787,worship,3
+D137,way/317150175,place_of_worship,,-175.3354785,-21.0780584,worship,3
+D138,way/317150208,place_of_worship,,-175.3346893,-21.0777168,worship,3
+D139,way/317150259,place_of_worship,,-175.3364583,-21.0812802,worship,3
+D140,way/317150296,place_of_worship,,-175.3294315,-21.0706285,worship,3
+D141,way/317150365,place_of_worship,,-175.335211,-21.0787865,worship,3
+D142,way/317151437,place_of_worship,,-175.3333233,-21.074529,worship,3
+D143,way/317154029,place_of_worship,,-175.340145,-21.1064523,worship,3
+D144,way/317154083,place_of_worship,,-175.3398417,-21.09174,worship,3
+D145,way/317154115,place_of_worship,,-175.3409709,-21.0970789,worship,3
+D146,way/317154142,place_of_worship,,-175.3394596,-21.0924529,worship,3
+D147,way/317154279,place_of_worship,,-175.3399444,-21.1035918,worship,3
+D148,way/317335499,place_of_worship,,-175.3402228,-21.1129651,worship,3
+D149,way/317335524,place_of_worship,,-175.3398338,-21.11215,worship,3
+D150,way/317335536,place_of_worship,,-175.340348,-21.1117921,worship,3
+D151,way/317483291,place_of_worship,,-175.3395063,-21.1110878,worship,3
+D152,way/317908854,place_of_worship,,-175.1115951,-21.1690229,worship,3
+D153,way/317908891,place_of_worship,,-175.1129949,-21.1651429,worship,3
+D154,way/317908925,place_of_worship,,-175.1121041,-21.1673357,worship,3
+D155,way/318031659,place_of_worship,,-175.1275466,-21.1516608,worship,3
+D156,way/318031694,place_of_worship,,-175.1263639,-21.150511,worship,3
+D157,way/318031742,place_of_worship,,-175.1210627,-21.1384906,worship,3
+D158,way/318031763,place_of_worship,,-175.1210482,-21.1375626,worship,3
+D159,way/318031790,place_of_worship,,-175.127385,-21.1509931,worship,3
+D160,way/318031826,place_of_worship,,-175.1203455,-21.1406517,worship,3
+D161,way/318032152,place_of_worship,,-175.1212537,-21.1391081,worship,3
+D162,way/318032157,place_of_worship,,-175.1207567,-21.1355308,worship,3
+D163,way/318038087,place_of_worship,,-175.109023,-21.1277676,worship,3
+D164,way/318038114,place_of_worship,,-175.1005411,-21.1220168,worship,3
+D165,way/318038143,place_of_worship,,-175.1119566,-21.127469,worship,3
+D166,way/318038271,place_of_worship,,-175.1111645,-21.1264649,worship,3
+D167,way/318038301,place_of_worship,,-175.0984732,-21.1211581,worship,3
+D168,way/318038374,place_of_worship,,-175.0989957,-21.1224651,worship,3
+D169,way/318038384,place_of_worship,,-175.1076666,-21.1249242,worship,3
+D170,way/318185803,place_of_worship,,-175.0416074,-21.1398873,worship,3
+D171,way/318185804,place_of_worship,,-175.0555457,-21.1321994,worship,3
+D172,way/318185806,place_of_worship,,-175.0464932,-21.1389361,worship,3
+D173,way/318185872,place_of_worship,,-175.0568265,-21.1307627,worship,3
+D174,way/318185891,place_of_worship,,-175.044146,-21.140721,worship,3
+D175,way/318185947,place_of_worship,,-175.0578098,-21.1304102,worship,3
+D176,way/318186015,place_of_worship,,-175.0432823,-21.1424058,worship,3
+D177,way/318186034,place_of_worship,,-175.0436115,-21.1418361,worship,3
+D178,way/318687812,place_of_worship,,-175.071641,-21.1273976,worship,3
+D179,way/318687844,place_of_worship,,-175.0708325,-21.1281718,worship,3
+D180,way/318687878,place_of_worship,,-175.074731,-21.1271156,worship,3
+D181,way/318688163,place_of_worship,,-175.0691173,-21.128042,worship,3
+D182,way/318688178,place_of_worship,,-175.0693023,-21.1284642,worship,3
+D183,way/318688254,place_of_worship,,-175.0686228,-21.1271631,worship,3
+D184,way/318688256,place_of_worship,,-175.0730496,-21.1274801,worship,3
+D185,way/318696980,place_of_worship,,-175.1077568,-21.2368346,worship,3
+D186,way/319048849,place_of_worship,,-175.1564712,-21.203539,worship,3
+D187,way/319049106,place_of_worship,,-175.1569814,-21.2002516,worship,3
+D188,way/319190228,place_of_worship,,-175.170764,-21.1773397,worship,3
+D189,way/319202020,place_of_worship,,-175.1875705,-21.1683065,worship,3
+D190,way/319205086,place_of_worship,,-175.1949921,-21.1885166,worship,3
+D191,way/319224623,place_of_worship,,-175.1808419,-21.1916082,worship,3
+D192,way/319224624,place_of_worship,,-175.1744476,-21.1928676,worship,3
+D193,way/319224728,place_of_worship,,-175.1775961,-21.1944139,worship,3
+D194,way/319224742,place_of_worship,,-175.1747332,-21.1935333,worship,3
+D195,way/319224954,place_of_worship,,-175.176381,-21.195295,worship,3
+D196,way/319224958,place_of_worship,,-175.1718903,-21.1904326,worship,3
+D197,way/319343960,place_of_worship,,-175.1744192,-21.1913707,worship,3
+D198,way/319343998,place_of_worship,,-175.1772199,-21.1892307,worship,3
+D199,way/319344068,place_of_worship,,-175.1739271,-21.191974,worship,3
+D200,way/319356556,place_of_worship,,-175.2121392,-21.184705,worship,3
+D201,way/319483243,place_of_worship,,-175.2123532,-21.1853733,worship,3
+D202,way/319505454,place_of_worship,,-175.2340054,-21.1735846,worship,3
+D203,way/319519242,place_of_worship,,-175.2308554,-21.1816245,worship,3
+D204,way/319826584,place_of_worship,,-175.2461967,-21.1758215,worship,3
+D205,way/319935904,place_of_worship,,-175.2783637,-21.1853395,worship,3
+D206,way/319936008,place_of_worship,,-175.2700287,-21.1884352,worship,3
+D207,way/319936145,place_of_worship,,-175.2662266,-21.1885452,worship,3
+D208,way/319980416,place_of_worship,,-175.2857247,-21.1823404,worship,3
+D209,way/319980463,place_of_worship,,-175.2862649,-21.1811705,worship,3
+D210,way/319980501,place_of_worship,,-175.2827856,-21.1834256,worship,3
+D211,way/320487416,place_of_worship,,-175.2565426,-21.1706038,worship,3
+D212,way/320487436,place_of_worship,,-175.2572265,-21.168977,worship,3
+D213,way/321550034,place_of_worship,,-175.1633152,-21.1513848,worship,3
+D214,way/321591532,place_of_worship,,-175.1691692,-21.1456627,worship,3
+D215,way/321595983,place_of_worship,,-175.1760469,-21.14725,worship,3
+D216,way/321792993,place_of_worship,,-175.2181445,-21.1408101,worship,3
+D217,way/323894663,place_of_worship,,-175.2293785,-21.152055,worship,3
+D218,way/324172072,place_of_worship,,-175.2233086,-21.1560045,worship,3
+D219,way/324172232,place_of_worship,,-175.2248391,-21.1556252,worship,3
+D220,way/325368379,place_of_worship,,-175.2331036,-21.1571396,worship,3
+D221,way/325368382,place_of_worship,,-175.2328967,-21.1588495,worship,3
+D222,way/327908694,place_of_worship,,-175.3321097,-21.1443272,worship,3
+D223,way/327908695,place_of_worship,,-175.282606,-21.1437017,worship,3
+D224,way/327908696,place_of_worship,,-175.2811019,-21.1418011,worship,3
+D225,way/327908727,place_of_worship,,-175.2796074,-21.1418856,worship,3
+D226,way/329618472,place_of_worship,,-175.0669511,-21.1277079,worship,3
+D227,way/331965724,place_of_worship,,-175.2160391,-21.1520888,worship,3
+D228,way/331968354,place_of_worship,,-175.2119452,-21.1518899,worship,3
+D229,way/332808593,place_of_worship,,-175.3391587,-21.102171,worship,3
+D230,way/335513792,place_of_worship,,-175.1989521,-21.1428681,worship,3
+D231,way/335514654,place_of_worship,,-175.1969443,-21.1438467,worship,3
+D232,way/342426399,place_of_worship,,-175.1394868,-21.2157337,worship,3
+D233,way/345171141,place_of_worship,,-175.2434286,-21.1324154,worship,3
+D234,way/345174177,place_of_worship,,-175.2550398,-21.134563,worship,3
+D235,way/345199991,place_of_worship,,-175.2411764,-21.1306487,worship,3
+D236,way/345200034,place_of_worship,,-175.2406785,-21.1309657,worship,3
+D237,way/345200091,place_of_worship,,-175.2390891,-21.1316055,worship,3
+D238,way/345653448,place_of_worship,,-175.1969371,-21.1490444,worship,3
+D239,way/347140965,place_of_worship,,-175.2092798,-21.137952,worship,3
+D240,way/348802298,place_of_worship,,-175.2145335,-21.1504469,worship,3
+D241,way/349367929,place_of_worship,,-175.2168473,-21.1509405,worship,3
+D242,way/349685966,place_of_worship,,-175.3138003,-21.1416786,worship,3
+D243,way/354002712,place_of_worship,,-175.2857986,-21.1551347,worship,3
+D244,way/356168551,place_of_worship,,-175.2772532,-21.1333376,worship,3
+D245,way/356699705,place_of_worship,,-175.280232,-21.1337567,worship,3
+D246,way/356712571,place_of_worship,,-175.325403,-21.1238624,worship,3
+D247,way/357028230,place_of_worship,,-175.3113858,-21.1593519,worship,3
+D248,way/357028232,place_of_worship,,-175.3103636,-21.1585266,worship,3
+D249,way/357028238,place_of_worship,,-175.3091093,-21.1611639,worship,3
+D250,way/357297963,place_of_worship,,-175.3312964,-21.1423618,worship,3
+D251,way/358059308,place_of_worship,,-175.2699703,-21.1593917,worship,3
+D252,way/383048462,place_of_worship,,-175.1668573,-21.200135,worship,3
+D253,node/1267657981,place_of_worship,,-175.2312674,-21.1777851,worship,3
+D254,node/3125378464,place_of_worship,,-175.229505,-21.1796942,worship,3
+D255,node/3125378465,place_of_worship,,-175.2310987,-21.1769663,worship,3
+D256,node/3125378466,place_of_worship,,-175.2316809,-21.1775057,worship,3
+D257,node/3125378467,place_of_worship,,-175.2289228,-21.1763216,worship,3
+D258,node/3125378474,place_of_worship,,-175.2357349,-21.1735952,worship,3
+D259,node/3125378475,place_of_worship,,-175.2361388,-21.1727978,worship,3
+D260,node/3125378476,place_of_worship,,-175.236037,-21.1722651,worship,3
+D261,node/3125378477,place_of_worship,,-175.2352692,-21.1713558,worship,3
+D262,node/3125444456,place_of_worship,,-175.3064353,-21.1306811,worship,3
+D263,node/3208762690,place_of_worship,,-175.1542873,-21.2008272,worship,3
+D264,node/3208793389,place_of_worship,,-175.1688403,-21.1793862,worship,3
+D265,node/3208793390,place_of_worship,,-175.1703778,-21.1806427,worship,3
+D266,node/3208830299,place_of_worship,,-175.2139742,-21.1849453,worship,3
+D267,node/3208830300,place_of_worship,,-175.2130172,-21.1838054,worship,3
+D268,node/3210377775,place_of_worship,,-175.1231163,-21.2659402,worship,3
+D269,node/3210377776,place_of_worship,,-175.1258272,-21.2675373,worship,3
+D270,node/3210399235,place_of_worship,,-175.1407912,-21.264141,worship,3
+D271,node/3210399241,place_of_worship,,-175.1375009,-21.264347,worship,3
+D272,node/3210399242,place_of_worship,,-175.1401134,-21.2614172,worship,3
+D273,node/3232676958,place_of_worship,,-175.3011178,-21.132086,worship,3
+D274,node/3232677316,place_of_worship,,-175.2919526,-21.1343713,worship,3
+D275,node/3232677364,place_of_worship,,-175.2988788,-21.1327644,worship,3
+D276,node/3232906824,place_of_worship,,-175.2942569,-21.1328809,worship,3
+D277,node/3242064728,place_of_worship,,-175.1257257,-21.1483408,worship,3
+D278,node/3250650462,place_of_worship,,-175.1101748,-21.2137492,worship,3
+D279,node/3251252490,place_of_worship,,-175.1098114,-21.2465597,worship,3
+D280,node/3251252684,place_of_worship,,-175.1108629,-21.2480833,worship,3
+D281,node/3251252835,place_of_worship,,-175.1110599,-21.2492735,worship,3
+D282,node/3251252920,place_of_worship,,-175.1120355,-21.250123,worship,3
+D283,node/3251253150,place_of_worship,,-175.1125364,-21.251561,worship,3
+D284,node/3254660297,place_of_worship,,-175.1440506,-21.1901394,worship,3
+D285,node/3254660333,place_of_worship,,-175.1433465,-21.190389,worship,3
+D286,node/3254660594,place_of_worship,,-175.1422153,-21.1937704,worship,3
+D287,node/3254661129,place_of_worship,,-175.1504257,-21.1996262,worship,3
+D288,node/3254661179,place_of_worship,,-175.1531684,-21.1998219,worship,3
+D289,node/3254706652,place_of_worship,,-175.1342824,-21.192165,worship,3
+D290,node/3254723101,place_of_worship,,-175.1228853,-21.1887503,worship,3
+D291,node/3254723815,place_of_worship,,-175.1271711,-21.1931111,worship,3
+D292,node/3254916313,place_of_worship,,-175.1212277,-21.1846294,worship,3
+D293,node/3255972141,place_of_worship,,-175.1135481,-21.1761656,worship,3
+D294,node/3255972173,place_of_worship,,-175.1159319,-21.1762788,worship,3
+D295,node/3256188431,place_of_worship,,-175.1921199,-21.1657296,worship,3
+D296,node/3256188913,place_of_worship,,-175.1847305,-21.168176,worship,3
+D297,node/3256188930,place_of_worship,,-175.182875,-21.1682239,worship,3
+D298,node/3256189295,place_of_worship,,-175.1864791,-21.1687161,worship,3
+D299,node/3256189623,place_of_worship,,-175.1847006,-21.1694286,worship,3
+D300,node/3258982383,place_of_worship,,-175.2208356,-21.1828773,worship,3
+D301,node/3258982695,place_of_worship,,-175.2141489,-21.1853939,worship,3
+D302,node/3259162055,place_of_worship,,-175.2380211,-21.1716202,worship,3
+D303,node/3259398203,place_of_worship,,-175.2325063,-21.1749494,worship,3
+D304,node/3283521297,place_of_worship,,-175.1760503,-21.1487083,worship,3
+D305,node/3283541913,place_of_worship,,-175.180057,-21.1449141,worship,3
+D306,node/3283545861,place_of_worship,,-175.1788645,-21.1502134,worship,3
+D307,node/3289685661,place_of_worship,,-175.2179615,-21.1263065,worship,3
+D308,node/3289716961,place_of_worship,,-175.2153088,-21.129069,worship,3
+D309,node/3306930501,place_of_worship,,-175.2272675,-21.1582612,worship,3
+D310,node/7997002445,place_of_worship,,-175.3182555,-21.1275396,worship,3
+D311,way/357020000,place_of_worship,'Api Nofo'anga 'oe Kau Taupo'ou,-175.3268946,-21.1513917,worship,3
+D312,way/317151434,place_of_worship,'Api ko Matavai Mo'ui Tafe ki Tonga,-175.3283909,-21.070461,worship,3
+D313,way/208261167,place_of_worship,'Apifo'ou Hall,-175.1769412,-21.1422496,worship,3
+D314,way/316634249,place_of_worship,Amelia Talia Hall,-175.2119743,-21.1395361,worship,3
+D315,way/311720746,place_of_worship,Assemblies of God,-175.203445,-21.1388176,worship,3
+D316,way/321445022,place_of_worship,Assemblies of God,-175.1561678,-21.1398016,worship,3
+D317,way/339123017,place_of_worship,Basilica of St. Anthony of Padua,-175.2018567,-21.1368341,worship,3
+D318,way/339120056,place_of_worship,Cathedral,-175.2027511,-21.1352119,worship,3
+D319,way/319048857,place_of_worship,Dr Moulton Memorial Chapel,-175.1600649,-21.2229586,worship,3
+D320,way/321784457,place_of_worship,FW Kumifonua,-175.2322727,-21.1366486,worship,3
+D321,way/325530917,place_of_worship,FWC Fanga 'o Pilolevu,-175.2102989,-21.1471865,worship,3
+D322,way/321784439,place_of_worship,FWC Hofoa,-175.2279329,-21.1303547,worship,3
+D323,way/322202059,place_of_worship,FWC Tongata'eapa,-175.2102782,-21.1306084,worship,3
+D324,way/347100413,place_of_worship,FWC Tufuenga,-175.2120394,-21.1338693,worship,3
+D325,way/311720775,place_of_worship,Falelotu Fakamanatu Senituli Siasi Uesiliana Tau'ataina 'o Tonga,-175.2033277,-21.1328879,worship,3
+D326,way/322194695,place_of_worship,Falelotu Mo'ui Fo'ou Kalaisi,-175.2174366,-21.1316639,worship,3
+D327,way/345174180,place_of_worship,Falelotu ko Saione,-175.2537961,-21.1350327,worship,3
+D328,way/316339756,place_of_worship,Faleola Hall,-175.2056303,-21.1460213,worship,3
+D329,way/317159113,place_of_worship,Fatufatu Fala 'i Falelalava.,-175.3389745,-21.0999374,worship,3
+D330,way/316324070,place_of_worship,Free Wesleyan Church of Tonga,-175.1920898,-21.1437649,worship,3
+D331,way/320499744,place_of_worship,Free Wesleyan Church of Tonga SUTT Ma'ufanga,-175.1851231,-21.1405227,worship,3
+D332,way/314371741,place_of_worship,Free Wesleyan of Tonga Fasi & Afi,-175.1966812,-21.1364854,worship,3
+D333,way/314371733,place_of_worship,Holo Molitoni,-175.2046339,-21.1342761,worship,3
+D334,way/317154345,place_of_worship,Huhu'i.,-175.3389292,-21.1011893,worship,3
+D335,way/320491962,place_of_worship,International Christian Assembly,-175.1908239,-21.1368941,worship,3
+D336,way/383391409,place_of_worship,Koe Falelotu ko Matiu,-175.1080872,-21.2332509,worship,3
+D337,way/208261946,place_of_worship,Koe Siasi Uesiliana Tau'ataina 'o Tonga Fua'amotu Falelotu,-175.1395331,-21.2626395,worship,3
+D338,way/323764251,place_of_worship,LDS Church,-175.2071545,-21.143757,worship,3
+D339,way/356699732,place_of_worship,LDS Church,-175.2821316,-21.1331738,worship,3
+D340,way/357014451,place_of_worship,LDS Church,-175.3204252,-21.1268727,worship,3
+D341,node/3125444455,place_of_worship,LDS Church,-175.3033924,-21.1321672,worship,3
+D342,node/8144012272,place_of_worship,LDS Church,-175.1695702,-21.1521695,worship,3
+D343,way/321784227,place_of_worship,LDS Hofoa,-175.2308518,-21.1344927,worship,3
+D344,relation/4836830,place_of_worship,LDS Matavaimo'ui,-175.2082709,-21.1313008,worship,3
+D345,way/320590185,place_of_worship,Malia Tupu Imakulata Cathedral,-175.1817445,-21.1408226,worship,3
+D346,way/319935912,place_of_worship,Malia koe Fa'e 'ae Ha'alalo,-175.2736855,-21.1875153,worship,3
+D347,way/313663820,place_of_worship,Nuku'alofa Tonga Temple,-175.2723223,-21.1626093,worship,3
+D348,way/321923442,place_of_worship,SUTT Hala 'o Vave,-175.21585,-21.1360822,worship,3
+D349,way/321976972,place_of_worship,SUTT Hala Maui,-175.222446,-21.1319022,worship,3
+D350,way/321976993,place_of_worship,Sangato Viani,-175.2208375,-21.1326517,worship,3
+D351,way/316336275,place_of_worship,Seventh Day Adventist Church,-175.1903257,-21.1422401,worship,3
+D352,way/323766541,place_of_worship,Seventh-day Adventist Church,-175.2052754,-21.1413415,worship,3
+D353,way/314371836,place_of_worship,Siasi 'o Tonga,-175.2010975,-21.1387518,worship,3
+D354,way/316339757,place_of_worship,Siasi Konisitūtone Tau'atāina o Tonga,-175.2062433,-21.1460977,worship,3
+D355,way/316636816,place_of_worship,Siasi Tonga Hou'eiki,-175.2137727,-21.1263999,worship,3
+D356,way/321923441,place_of_worship,Siasi Tonga Tau'ataina,-175.2191434,-21.1362868,worship,3
+D357,way/323761918,place_of_worship,Siasi Uesiliana Tauataina o Tonga,-175.2077216,-21.1371822,worship,3
+D358,node/4814469026,place_of_worship,Sione Pukemo'ui 'Aipolo Hall,-175.2705894,-21.1323774,worship,3
+D359,way/335492728,place_of_worship,Skips,-175.2014272,-21.1464597,worship,3
+D360,way/319072986,place_of_worship,St Michael's Church,-175.1193885,-21.1791244,worship,3
+D361,way/307996248,place_of_worship,St. Barnabas Anglican Church,-175.1950328,-21.1482937,worship,3
+D362,way/314371907,place_of_worship,St. Pauls,-175.1981095,-21.1356489,worship,3
+D363,node/5961204885,place_of_worship,Walk By Faith Church,-175.241459,-21.1398553,worship,3
