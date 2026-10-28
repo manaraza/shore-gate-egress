@@ -98,4 +98,26 @@ pip install -r requirements.txt
 
 ## Team
 
-Danny Jung · Fuad Fachrudin · Mohd Allif Najmi bin Musa · Samana Raza · Shiyin Lin
+Danny Jung · Fuad Fachrudin · Mohd Allif Najmi bin Musa · Syeda Samana Raza · Shiyin Lin
+
+## Running the Earth Engine scripts
+
+All Earth Engine assets used by the scripts in `src/gee/` are shared as
+**"Anyone can read"** under `projects/shore-gate-egress/assets/`, so any
+Earth Engine account can run them without copying data.
+
+- `dpm_0122_score`: ALOS-2 Damage Proxy Map (ARIA/JAXA, 22 Jan 2022), uploaded
+- `emsr558_*`: Copernicus EMS EMSR558 grading (roads, buildings, footprints, ash), uploaded
+- `tongatapu_destinations_20220115_gee`: inland destinations (see `outputs/destinations/`)
+- `dpm_labels_v1_c3`, `features_v1`, `impact_samples_v1`, `impact_score_v1`,
+  `friction_v1`: frozen outputs of scripts 08, 09b, 10 and 13
+
+**To reproduce the results:** open a script in the Code Editor
+(code.earthengine.google.com) and press **Run**. Scripts read the frozen assets,
+so each can run on its own; for example, `10_impact_rf.js` prints the
+cross-validation confusion matrices, metrics and feature importance to the Console.
+Export blocks write to our project and are not needed for checking results.
+
+**Script order:** 08 labels → 09a/09b features → 10 impact RF →
+11 EMSR558 validation → 13 friction surface → 14 routing stack export →
+`notebooks/15_routing_mcda_v2.ipynb` → `app/`.
